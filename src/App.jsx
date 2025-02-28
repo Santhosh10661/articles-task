@@ -16,6 +16,7 @@ import { StoreData } from "./StoreData";
 function App() {
   const dispatch = useDispatch();
   const data = useSelector((state) => state.data.data);
+  const themeDark = useSelector((state) => state.theme.dark);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -26,7 +27,6 @@ function App() {
         setLoading(false);
       } else {
         StoreData(dispatch);
-        // await FetchData(dispatch);
         setLoading(false);
       }
     };
@@ -35,7 +35,7 @@ function App() {
   }, [dispatch]);
 
   return (
-    <main className="bg-gray-50">
+    <main className={themeDark ? "bg-gray-800" : "bg-gray-50"}>
       <ScrollTop />
       {loading === false && (
         <Routes>

@@ -10,6 +10,7 @@ import ScrollTop from "./components/ScrollTop";
 
 const FullArticle = (props) => {
   const { id } = useParams();
+  const themeDark = useSelector((state) => state.theme.dark);
   const data = useSelector((state) => state.data.data);
   let artCat = id.split("-")[0];
   let navigate = useNavigate();
@@ -24,7 +25,7 @@ const FullArticle = (props) => {
   );
 
   return (
-    <section className="text-gray-800 p-4">
+    <section className={`p-4 ${themeDark ? "text-gray-50" : "text-gray-800"}`}>
       <ScrollTop />
       <div className="flex justify-between">
         <NavLink to={-1} className="py-3 flex items-center cursor-pointer">

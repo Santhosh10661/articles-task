@@ -1,19 +1,27 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { dateConvertion } from "./Template";
+import { useSelector } from "react-redux";
 
 const PopularArticles = (props) => {
   let { data } = props;
+  const themeDark = useSelector((state) => state.theme.dark);
   let navigate = useNavigate();
 
   return (
-    <section className="py-10 text-gray-800 container mx-auto ">
+    <section
+      className={`py-10 container mx-auto ${
+        themeDark ? "text-gray-50" : "text-gray-800"
+      }`}
+    >
       <h1 className="text-4xl w-full font-medium mb-5">Popular Articles</h1>
 
       <div className="flex flex-col lg:flex-row">
         <div className=" lg:w-50 flex-1 ">
           <div
-            className="cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3"
+            className={`cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
+              themeDark ? "bg-gray-900" : "bg-gray-50"
+            }`}
             onClick={() => navigate(`/fullarticle/${data[0].id}`)}
           >
             <img
@@ -34,7 +42,9 @@ const PopularArticles = (props) => {
           {data.slice(2, 5).map((da) => {
             return (
               <div
-                className="flex flex-1 mb-5 cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3"
+                className={`flex flex-1 mb-5 cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
+                  themeDark ? "bg-gray-900" : "bg-gray-50"
+                }`}
                 onClick={() => navigate(`/fullarticle/${da.id}`)}
                 key={da.id}
               >

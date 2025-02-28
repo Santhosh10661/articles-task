@@ -20,20 +20,35 @@ footer {
   background-size: cover;
 }
 
-.commentSection::-webkit-scrollbar {
+.commentSection-light::-webkit-scrollbar {
   /* display: none; */
   width: 6px;
 }
-.commentSection::-webkit-scrollbar-track {
+.commentSection-light::-webkit-scrollbar-track {
   background: #fbfffb;
   border-radius: 20px;
 }
-.commentSection::-webkit-scrollbar-thumb {
+.commentSection-light::-webkit-scrollbar-thumb {
   background-color: #1e2939;
   border-radius: 20px;
   margin: 0 2px;
   cursor: pointer;
 }
+.commentSection-dark::-webkit-scrollbar {
+  /* display: none; */
+  width: 6px;
+}
+.commentSection-dark::-webkit-scrollbar-track {
+  background: #1e2939;
+  border-radius: 20px;
+}
+.commentSection-dark::-webkit-scrollbar-thumb {
+  background-color: #fbfffb;
+  border-radius: 20px;
+  margin: 0 2px;
+  cursor: pointer;
+}
+
 .navItem a::after {
   content: "";
   position: absolute;
