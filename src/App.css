@@ -1,3 +1,4 @@
+/* all pages hero styles start */
 .general {
   background-image: url("./assets/ArticlesHero.jpg");
   background-size: cover;
@@ -14,14 +15,15 @@
   background-image: url("./assets/technologyHeroImg.jpg");
   background-size: cover;
 }
+/* all pages hero styles end */
 
 footer {
   background-image: url("./assets/FooterImg.jpg");
   background-size: cover;
 }
 
+/* comment section style start */
 .commentSection-light::-webkit-scrollbar {
-  /* display: none; */
   width: 6px;
 }
 .commentSection-light::-webkit-scrollbar-track {
@@ -35,7 +37,6 @@ footer {
   cursor: pointer;
 }
 .commentSection-dark::-webkit-scrollbar {
-  /* display: none; */
   width: 6px;
 }
 .commentSection-dark::-webkit-scrollbar-track {
@@ -48,29 +49,45 @@ footer {
   margin: 0 2px;
   cursor: pointer;
 }
+/* comment section style end */
 
+/* nav link hover style start */
 .navItem a::after {
   content: "";
   position: absolute;
-  left: 50%;
   bottom: 0%;
-  transform: translate(-50%, -50%);
   width: 0%;
   height: 2px;
   background-color: #1e2939;
-  transition: 0.3s ease;
-}
-.navItem:hover a::after {
-  width: 30%;
 }
 
-.navItem .active::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  bottom: 0%;
-  transform: translate(-50%, -50%);
-  width: 30%;
-  height: 2px;
-  background-color: #1e2939;
+.navItem:hover a::after {
+  left: 0%;
+  width: 100%;
+  animation-name: navHover;
+  animation-duration: 0.3s;
 }
+@keyframes navHover {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+.navItem:not(:hover) a::after {
+  right: 0%;
+  width: 0%;
+  animation-name: navHoverExit;
+  animation-duration: 0.3s;
+}
+@keyframes navHoverExit {
+  0% {
+    width: 100%;
+  }
+  100% {
+    width: 0%;
+  }
+}
+
+/* nav link hover style end */
