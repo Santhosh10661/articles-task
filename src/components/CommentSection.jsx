@@ -63,7 +63,7 @@ const CommentSection = (props) => {
               onChange={(e) => setInputVal(e.target.value)}
               type="text"
               placeholder="Drop Your Thoughts"
-              className="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6"
+              className="block min-w-0 grow py-1.5 pr-3 pl-1 text-base  placeholder:text-gray-400 focus:outline-none sm:text-sm/6"
             />
             <button
               className={`p-3 rounded-full ${
