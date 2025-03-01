@@ -51,13 +51,14 @@ const PopularArticles = (props) => {
                 onClick={() => navigate(`/fullarticle/${da.id}`)}
                 key={da.id}
               >
-                <LazyLoadImage
-                  src={da.urlToImage}
-                  alt=""
-                  className="flex-1 rounded-md aspect-1/1 "
-                  // style={{ width: "100px", height: "100%" }}
-                  effect="blur"
-                />
+                <div className="relative flex-1 flex justify-center items-center ">
+                  <LazyLoadImage
+                    src={da.urlToImage}
+                    alt=""
+                    className="rounded-md aspect-1/1"
+                    effect="blur"
+                  />
+                </div>
                 <div className="flex-2 mx-10">
                   <p>{dateConvertion(da.publishedAt)}</p>
                   <h1 className="text-4xl font-medium line-clamp-3 my-3">

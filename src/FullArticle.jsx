@@ -1,6 +1,7 @@
 import React from "react";
 import { NavLink, useNavigate, useParams } from "react-router-dom";
-
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import "react-lazy-load-image-component/src/effects/blur.css";
 import { FaArrowLeftLong } from "react-icons/fa6";
 import { useSelector } from "react-redux";
 import { dateConvertion } from "./components/Template";
@@ -43,10 +44,11 @@ const FullArticle = (props) => {
           <h1 className="text-2xl md:text-5xl font-bold md:font-medium my-5">
             {openedArt[0].title}
           </h1>
-          <img
+          <LazyLoadImage
             src={openedArt[0].urlToImage}
             alt="not found"
             className="mx-auto"
+            effect="blur"
           />
           <h1 className="text-3xl my-5">
             {openedArt[0].content
@@ -81,7 +83,12 @@ const FullArticle = (props) => {
                   onClick={() => navigate(`/fullarticle/${item.id}`)}
                   key={item.id}
                 >
-                  <img src={item.urlToImage} alt="" className="aspect-1/1" />
+                  <LazyLoadImage
+                    src={item.urlToImage}
+                    alt=""
+                    className="aspect-1/1"
+                    effect="blur"
+                  />
 
                   <h1 className="text-md line-clamp-2 my-2">{item.title}</h1>
                 </article>
