@@ -24,10 +24,14 @@ function App() {
       const SS_Data = JSON.parse(sessionStorage.getItem("data"));
       if (SS_Data) {
         dispatch(setData(SS_Data));
-        setLoading(false);
+        setTimeout(() => {
+          setLoading(false);
+        }, 1000);
       } else {
         StoreData(dispatch);
-        setLoading(false);
+        setTimeout(() => {
+          setLoading(false);
+        }, 1000);
       }
     };
 
@@ -37,20 +41,30 @@ function App() {
   return (
     <main className={themeDark ? "bg-gray-800" : "bg-gray-50"}>
       <ScrollTop />
-      {loading === false && (
-        <Routes>
-          <Route path="/" element={<General />} />
-          <Route path="/business" element={<Business />} />
-          <Route path="/sports" element={<Sports />} />
-          <Route path="/technology" element={<Technology />} />
 
-          <Route
-            path="/fullarticle/:id"
-            element={<FullArticle data={data} />}
-          />
-        </Routes>
+      {loading ? (
+        <div className="bg-gray-50  flex justify-center items-center h-dvh">
+          <span className="relative flex size-10">
+            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-gray-700 opacity-75"></span>
+            <span className="relative inline-flex size-10 rounded-full bg-gray-800"></span>
+          </span>
+        </div>
+      ) : (
+        <>
+          <Routes>
+            <Route path="/" element={<General />} />
+            <Route path="/business" element={<Business />} />
+            <Route path="/sports" element={<Sports />} />
+            <Route path="/technology" element={<Technology />} />
+
+            <Route
+              path="/fullarticle/:id"
+              element={<FullArticle data={data} />}
+            />
+          </Routes>
+          <Footer />
+        </>
       )}
-      <Footer />
     </main>
   );
 }

@@ -64,9 +64,7 @@ const Drawer = (props) => {
                     (item) => (
                       <li
                         key={item}
-                        className={`${
-                          themeDark ? "navItem-dark" : "navItem-light"
-                        } navItem h-fit w-fit mx-auto relative p-1`}
+                        className="h-fit w-fit mx-auto relative p-1"
                       >
                         <NavLink
                           to={item === "general" ? "/" : `/${item}`}
