@@ -18,7 +18,7 @@ const PopularArticles = (props) => {
 
       <div className="flex flex-col lg:flex-row">
         <div className=" lg:w-50 flex-1 ">
-          <div
+          <article
             className={`cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
               themeDark ? "bg-gray-900" : "bg-gray-50"
             }`}
@@ -35,13 +35,13 @@ const PopularArticles = (props) => {
               {data[0].title}
             </h1>
             <p className="text-xl">{data[0].description}</p>
-          </div>
+          </article>
         </div>
 
         <div className=" lg:w-50 flex-1 flex flex-col mx-3 xl:mx-10 ">
           {data.slice(2, 5).map((da) => {
             return (
-              <div
+              <article
                 className={`flex flex-1 mb-5 cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
                   themeDark ? "bg-gray-900" : "bg-gray-50"
                 }`}
@@ -60,7 +60,7 @@ const PopularArticles = (props) => {
                     {da.title}
                   </h1>
                 </div>
-              </div>
+              </article>
             );
           })}
         </div>

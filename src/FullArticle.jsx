@@ -39,7 +39,7 @@ const FullArticle = (props) => {
         </NavLink>
       </div>
       <div className="flex flex-col lg:flex-row">
-        <div className="flex-2 p-2 ">
+        <article className="flex-2 p-2 ">
           <h1 className="text-2xl md:text-5xl font-bold md:font-medium my-5">
             {openedArt[0].title}
           </h1>
@@ -67,7 +67,7 @@ const FullArticle = (props) => {
             id={id}
             comment={openedArt[0].comment}
           />
-        </div>
+        </article>
         <div className="flex-1 lg:mx-5 ">
           <h1 className="text-4xl md:text-3xl lg:text-4xl xl:text-5xl font-bold my-5 text-center">
             Related Articles
@@ -76,7 +76,7 @@ const FullArticle = (props) => {
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-2 gap-6">
             {related.map((item) => {
               return (
-                <div
+                <article
                   className="w-full h-fit cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3"
                   onClick={() => navigate(`/fullarticle/${item.id}`)}
                   key={item.id}
@@ -84,7 +84,7 @@ const FullArticle = (props) => {
                   <img src={item.urlToImage} alt="" className="aspect-1/1" />
 
                   <h1 className="text-md line-clamp-2 my-2">{item.title}</h1>
-                </div>
+                </article>
               );
             })}
           </div>
