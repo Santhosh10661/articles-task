@@ -92,21 +92,6 @@ export default function Navbar() {
         mobileMenuOpen={mobileMenuOpen}
         setMobileMenuOpen={setMobileMenuOpen}
       />
-      {/* {mobileMenuOpen && (
-        <div className="sm:hidden relative">
-          <div className="absolute  right-10 px-2 pt-2 pb-3 w-48 space-y-1 bg-gray-50">
-            {["general", "business", "sports", "technology"].map((item) => (
-              <NavLink
-                to={item === "general" ? "/" : `/${item}`}
-                className="rounded-md px-3 block py-2 text-sm font-medium text-gray-800 capitalize navItem"
-                key={item}
-              >
-                {item}
-              </NavLink>
-            ))}
-          </div>
-        </div>
-      )} */}
     </nav>
   );
 }

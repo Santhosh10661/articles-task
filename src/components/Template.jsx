@@ -1,20 +1,36 @@
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Hero from "./Hero";
 import PopularArticles from "./PopularArticles";
 import LatestArticles from "./LatestArticles";
 import SearchedArticles from "./SearchedArticles";
+import { useNavigate } from "react-router-dom";
 
 const Template = (props) => {
   let { data, classN, qoutes } = props;
   let [isSearched, setIsSearched] = useState(false);
   let [searchedArticles, setSearchedArticles] = useState([]);
+  let [loadingSearch, setLoadingSearch] = useState(false);
+
+  const searchRef = useRef(null);
+
+  useEffect(() => {
+    if (searchRef.current) {
+      searchRef.current.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  }, [loadingSearch]); // Runs when `isSearched` changes
 
   const FindTheArticles = (searched) => {
+    setLoadingSearch(true);
     let articles = data.filter((art) =>
       art.title.toLowerCase().includes(searched.toLowerCase())
     );
-
     setSearchedArticles(articles);
+    setTimeout(() => {
+      setLoadingSearch(false);
+    }, 1000);
   };
 
   return (
@@ -26,7 +42,11 @@ const Template = (props) => {
         FindTheArticles={FindTheArticles}
       />
       {isSearched ? (
-        <SearchedArticles searchedArticles={searchedArticles} />
+        <SearchedArticles
+          searchRef={searchRef}
+          loadingSearch={loadingSearch}
+          searchedArticles={searchedArticles}
+        />
       ) : (
         <>
           <PopularArticles data={data} dateConvertion={dateConvertion} />

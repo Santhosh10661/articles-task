@@ -21,24 +21,27 @@ const CommentSection = (props) => {
 
   const handleComments = (e) => {
     e.preventDefault();
+    const isOnlyWhitespace = /^\s*$/.test(inputVal);
 
-    const details = {
-      userName: "Unknown",
-      cmt: inputVal,
-      dateAndTime: dateConvertion(new Date()),
-    };
+    if (isOnlyWhitespace === false && inputVal) {
+      const details = {
+        userName: "Unknown",
+        cmt: inputVal,
+        dateAndTime: dateConvertion(new Date()),
+      };
 
-    const commetAdded = [...data[artCat]].map((item) =>
-      item.id === id
-        ? { ...item, comment: comment ? [...comment, details] : [details] }
-        : item
-    );
+      const commetAdded = [...data[artCat]].map((item) =>
+        item.id === id
+          ? { ...item, comment: comment ? [...comment, details] : [details] }
+          : item
+      );
 
-    const alteredData = { ...data, [artCat]: commetAdded };
-    sessionStorage.setItem("data", JSON.stringify(alteredData));
-    dispatch(setData(alteredData));
-    setCommentAdded(!commentAdded);
-    setInputVal("");
+      const alteredData = { ...data, [artCat]: commetAdded };
+      sessionStorage.setItem("data", JSON.stringify(alteredData));
+      dispatch(setData(alteredData));
+      setCommentAdded(!commentAdded);
+      setInputVal("");
+    }
   };
   return (
     <div className={`${themeDark ? "text-gray-50" : "text-gray-800"}`}>

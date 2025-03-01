@@ -15,7 +15,8 @@ const Hero = (props) => {
       setIsSearched(false);
     }
   };
-  const handleSearch = () => {
+  const handleSearch = (e) => {
+    e.preventDefault();
     if (inputVal) {
       setIsSearched(true);
       FindTheArticles(inputVal);
@@ -53,23 +54,25 @@ const Hero = (props) => {
           <p className="text-gray-50 text-5xl md:text-6xl lg:text-7xl xl:text-8xl capitalize font-medium ">
             {qoutes}
           </p>
-          <div className="bg-gray-50 rounded-full w-full sm:w-sm md:w-sm lg:w-md my-5 flex p-1 ">
-            <input
-              type="text"
-              value={inputVal}
-              onChange={(e) => handleChange(e.target.value)}
-              className="p-3 w-auto text-gray-800 flex-2 border-none outline-none text-xl font-medium"
-              placeholder="Search"
-            />
-            <button
-              className="bg-gray-800 text-gray-50 px-5 py-1 rounded-full flex-1 cursor-pointer text-xl flex justify-between items-center "
-              onClick={() => handleSearch()}
-            >
-              Search
-              <div className="bg-gray-50 rounded-full flex justify-center items-center aspect-1/1 p-2 ">
-                <FaArrowRightLong className="text-gray-800 " />
-              </div>
-            </button>
+          <div className="bg-gray-50 rounded-full w-full sm:w-sm md:w-sm lg:w-md my-5  p-1 ">
+            <form action="" className="flex" onSubmit={(e) => handleSearch(e)}>
+              <input
+                type="text"
+                value={inputVal}
+                onChange={(e) => handleChange(e.target.value)}
+                className="p-3 w-auto text-gray-800 flex-2 border-none outline-none text-xl font-medium"
+                placeholder="Search"
+              />
+              <button
+                className="bg-gray-800 text-gray-50 px-5 py-1 rounded-full flex-1 cursor-pointer text-xl flex justify-between items-center "
+                type="submit"
+              >
+                Search
+                <div className="bg-gray-50 rounded-full flex justify-center items-center aspect-1/1 p-2 ">
+                  <FaArrowRightLong className="text-gray-800 " />
+                </div>
+              </button>
+            </form>
           </div>
         </div>
       </div>

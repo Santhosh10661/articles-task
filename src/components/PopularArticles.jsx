@@ -21,7 +21,7 @@ const PopularArticles = (props) => {
       <div className="flex flex-col lg:flex-row">
         <div className=" lg:w-50 flex-1 ">
           <article
-            className={`cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
+            className={`cursor-pointer  shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
               themeDark ? "bg-gray-900" : "bg-gray-50"
             }`}
             onClick={() => navigate(`/fullarticle/${data[0].id}`)}
