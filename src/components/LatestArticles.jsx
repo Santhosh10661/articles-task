@@ -37,7 +37,7 @@ const LatestArticles = (props) => {
       <div className="">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10">
           {paginatedItems.map((item) => (
-            <div
+            <article
               key={item.id}
               className={`h-full w-full  cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
                 themeDark ? "bg-gray-900" : "bg-gray-50"
@@ -55,7 +55,7 @@ const LatestArticles = (props) => {
                 {item.title}
               </h1>
               <p className="text-xl line-clamp-2">{item.description}</p>
-            </div>
+            </article>
           ))}
         </div>
 

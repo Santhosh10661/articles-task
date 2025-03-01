@@ -7,6 +7,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { setTheme } from "../redux/app/slices/themeReducer";
 import { MdLightMode } from "react-icons/md";
 import { GiNightSleep } from "react-icons/gi";
+import Drawer from "./Drawer";
+import { CgMenuRight } from "react-icons/cg";
 
 export default function Navbar() {
   const themeDark = useSelector((state) => state.theme.dark);
@@ -39,7 +41,12 @@ export default function Navbar() {
             <div className="hidden sm:ml-6 sm:block flex items-center h-fit my-auto">
               <ul className="flex space-x-4">
                 {["general", "business", "sports", "technology"].map((item) => (
-                  <li key={item} className="navItem h-fit relative p-1">
+                  <li
+                    key={item}
+                    className={`${
+                      themeDark ? "navItem-dark" : "navItem-light"
+                    } navItem h-fit relative p-1`}
+                  >
                     <NavLink
                       to={item === "general" ? "/" : `/${item}`}
                       className="rounded-md px-3 py-2 text-sm font-medium capitalize  "
@@ -53,17 +60,6 @@ export default function Navbar() {
           </div>
 
           <div className="relative flex justify-evenly">
-            {/* user btn */}
-            <button
-              className={`flex rounded-full cursor-pointer aspect-1/1 mx-1 text-sm p-2 ${
-                themeDark
-                  ? "bg-gray-50 text-gray-800"
-                  : "bg-gray-800 text-gray-50"
-              }`}
-              onClick={() => setDropdownOpen(!dropdownOpen)}
-            >
-              <FaUser className=" size-5" />
-            </button>
             {/* theme change button */}
             <button
               className={`px-4 py-2 rounded-full cursor-pointer ${
@@ -78,44 +74,25 @@ export default function Navbar() {
             <div className=" flex items-center sm:hidden">
               <button
                 type="button"
-                className="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:ring-2 focus:ring-white focus:ring-inset"
-                onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+                className={`relative inline-flex items-center cursor-pointer ${
+                  themeDark
+                    ? "text-gray-50 hover:bg-gray-700"
+                    : "text-gray-800 hover:bg-gray-100"
+                } justify-center rounded-md p-2 mx-2 `}
+                onClick={() => setMobileMenuOpen(true)}
               >
-                {mobileMenuOpen ? (
-                  <svg
-                    className="size-6"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    strokeWidth="1.5"
-                    fill="none"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M6 18 18 6M6 6l12 12"
-                    />
-                  </svg>
-                ) : (
-                  <svg
-                    className="size-6"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    strokeWidth="1.5"
-                    fill="none"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
-                    />
-                  </svg>
-                )}
+                <CgMenuRight className="text-2xl" />
               </button>
             </div>
           </div>
         </div>
       </div>
-      {mobileMenuOpen && (
+
+      <Drawer
+        mobileMenuOpen={mobileMenuOpen}
+        setMobileMenuOpen={setMobileMenuOpen}
+      />
+      {/* {mobileMenuOpen && (
         <div className="sm:hidden relative">
           <div className="absolute  right-10 px-2 pt-2 pb-3 w-48 space-y-1 bg-gray-50">
             {["general", "business", "sports", "technology"].map((item) => (
@@ -129,7 +106,7 @@ export default function Navbar() {
             ))}
           </div>
         </div>
-      )}
+      )} */}
     </nav>
   );
 }

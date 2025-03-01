@@ -52,7 +52,16 @@ footer {
 /* comment section style end */
 
 /* nav link hover style start */
-.navItem a::after {
+
+.navItem-dark a::after {
+  content: "";
+  position: absolute;
+  bottom: 0%;
+  width: 0%;
+  height: 2px;
+  background-color: #f9fafb;
+}
+.navItem-light a::after {
   content: "";
   position: absolute;
   bottom: 0%;
