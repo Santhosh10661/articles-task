@@ -1,4 +1,6 @@
 import React from "react";
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import "react-lazy-load-image-component/src/effects/blur.css";
 import { Link, useNavigate } from "react-router-dom";
 import { dateConvertion } from "./Template";
 import { useSelector } from "react-redux";
@@ -24,11 +26,12 @@ const PopularArticles = (props) => {
             }`}
             onClick={() => navigate(`/fullarticle/${data[0].id}`)}
           >
-            <img
+            <LazyLoadImage
               src={data[0].urlToImage}
               alt=""
               className=""
               style={{ width: "100%" }}
+              effect="blur"
             />
             <p className="mt-5">{dateConvertion(data[0].publishedAt)}</p>
             <h1 className="text-4xl truncate font-medium py-4">
@@ -48,11 +51,12 @@ const PopularArticles = (props) => {
                 onClick={() => navigate(`/fullarticle/${da.id}`)}
                 key={da.id}
               >
-                <img
+                <LazyLoadImage
                   src={da.urlToImage}
                   alt=""
-                  className="flex-1 rounded-md"
-                  style={{ width: "100px", height: "100%" }}
+                  className="flex-1 rounded-md aspect-1/1 "
+                  // style={{ width: "100px", height: "100%" }}
+                  effect="blur"
                 />
                 <div className="flex-2 mx-10">
                   <p>{dateConvertion(da.publishedAt)}</p>
