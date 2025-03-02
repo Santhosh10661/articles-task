@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import { useEffect, useState } from "react";
 import "./App.css";
 import Footer from "./components/Footer";
@@ -6,19 +6,27 @@ import { Route, Routes } from "react-router-dom";
 import FullArticle from "./FullArticle";
 import { useDispatch, useSelector } from "react-redux";
 import { setData } from "./redux/app/slices/dataReducer";
-import General from "./components/categories/General";
-import Business from "./components/categories/Business";
-import Sports from "./components/categories/Sports";
-import Technology from "./components/categories/Technology";
+// import General from "./components/categories/General";
+// import Business from "./components/categories/Business";
+// import Sports from "./components/categories/Sports";
+// import Technology from "./components/categories/Technology";
 import ScrollTop from "./components/ScrollTop";
 import { StoreData } from "./StoreData";
+import Loading from "./components/Loading";
+
+const General = React.lazy(() => import("./components/categories/General"));
+const Business = React.lazy(() => import("./components/categories/Business"));
+const Sports = React.lazy(() => import("./components/categories/Sports"));
+const Technology = React.lazy(() =>
+  import("./components/categories/Technology")
+);
 
 function App() {
   const dispatch = useDispatch();
   const data = useSelector((state) => state.data.data);
   const themeDark = useSelector((state) => state.theme.dark);
   const [loading, setLoading] = useState(true);
-  console.log(data);
+
   useEffect(() => {
     const Fetch = async () => {
       const SS_Data = JSON.parse(sessionStorage.getItem("data"));
@@ -43,26 +51,23 @@ function App() {
       <ScrollTop />
 
       {loading ? (
-        <div className="bg-gray-50  flex justify-center items-center h-dvh">
-          <span className="relative flex size-10">
-            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-gray-700 opacity-75"></span>
-            <span className="relative inline-flex size-10 rounded-full bg-gray-800"></span>
-          </span>
-        </div>
+        <Loading />
       ) : (
         <>
-          <Routes>
-            <Route path="/" element={<General />} />
-            <Route path="/business" element={<Business />} />
-            <Route path="/sports" element={<Sports />} />
-            <Route path="/technology" element={<Technology />} />
+          <Suspense fallback={<Loading />}>
+            <Routes>
+              <Route path="/" element={<General />} />
+              <Route path="/business" element={<Business />} />
+              <Route path="/sports" element={<Sports />} />
+              <Route path="/technology" element={<Technology />} />
 
-            <Route
-              path="/fullarticle/:id"
-              element={<FullArticle data={data} />}
-            />
-          </Routes>
-          <Footer />
+              <Route
+                path="/fullarticle/:id"
+                element={<FullArticle data={data} />}
+              />
+            </Routes>
+            <Footer />
+          </Suspense>
         </>
       )}
     </main>
