@@ -32,7 +32,7 @@ const LatestArticles = (props) => {
     <section
       className={`py-10 container mx-auto ${
         themeDark ? "text-gray-50" : "text-gray-800"
-      }`}
+      } min-h-dvh`}
     >
       <h1 className="text-4xl w-full font-medium mb-5">Latest Articles</h1>
 
@@ -50,7 +50,7 @@ const LatestArticles = (props) => {
               <LazyLoadImage
                 src={item.urlToImage}
                 alt=""
-                className=" aspect-1/1 object-cover rounded-md"
+                className="object-cover rounded-md"
                 effect="blur"
               />
               <p className="mt-5">{dateConvertion(item.publishedAt)}</p>
