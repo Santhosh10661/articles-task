@@ -3,7 +3,6 @@ import Hero from "./Hero";
 import PopularArticles from "./PopularArticles";
 import LatestArticles from "./LatestArticles";
 import SearchedArticles from "./SearchedArticles";
-import { useNavigate } from "react-router-dom";
 
 const Template = (props) => {
   let { data, classN, qoutes } = props;

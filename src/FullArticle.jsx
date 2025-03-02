@@ -41,7 +41,7 @@ const FullArticle = (props) => {
       </div>
       <div className="flex flex-col lg:flex-row">
         <article className="flex-2 p-2 ">
-          <h1 className="text-2xl md:text-5xl font-bold md:font-medium my-5">
+          <h1 className="text-2xl md:text-4xl capitalize font-bold md:font-medium my-5">
             {openedArt[0].title}
           </h1>
           <LazyLoadImage
