@@ -2,8 +2,6 @@ import data from "./data.json";
 import { setData } from "./redux/app/slices/dataReducer";
 
 export const StoreData = (dispatch) => {
-  console.log("sSSs", data);
-
   const addId = (articles, cat) => {
     const addedList = articles.map((art, index) => {
       let item = { ...art, id: `${cat}-${index + 1}` };
