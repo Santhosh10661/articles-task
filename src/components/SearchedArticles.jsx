@@ -1,7 +1,9 @@
 import React from "react";
 import { dateConvertion } from "./Template";
+import { useNavigate } from "react-router-dom";
 
 const SearchedArticles = (props) => {
+  const navigate = useNavigate();
   let { searchedArticles, loadingSearch, searchRef } = props;
 
   return (
