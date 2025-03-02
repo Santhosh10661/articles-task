@@ -625,324 +625,334 @@
   ],
   "sports": [
     {
-      "source": { "id": null, "name": "Gizmodo.com" },
-      "author": "Brittany Vincent",
-      "title": "Vizio 50-Inch Smart TV Drops to Its Lowest Price Just in Time for Super Bowl Prep",
-      "description": "This Vizio TV is Apple AirPlay and Chromecast built-in.",
-      "url": "https://gizmodo.com/vizio-50-inch-smart-tv-drops-to-its-lowest-price-just-in-time-for-super-bowl-prep-2000556104",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/vizioquantum.jpg",
-      "publishedAt": "2025-01-29T13:20:29Z",
-      "content": "Looking for a TV that punches above its price class? Vizio’s 50-inch QLED has dropped to a price point that makes premium features surprisingly accessible. While top-tier TVs often command prices tha… [+2160 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Gizmodo.com" },
-      "author": "Brittany Vincent",
-      "title": "Garmin Instinct 2 Hits a Record Low, Premium GPS Smartwatch for Under $200",
-      "description": "Garmin Instinct 2 deal you can’t ignore—Premium features, budget price.",
-      "url": "https://gizmodo.com/garmin-instinct-2-hits-a-record-low-premium-gps-smartwatch-for-under-200-2000567181",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/garmin.jpg",
-      "publishedAt": "2025-02-24T14:10:20Z",
-      "content": "Garmin’s Instinct 2 stands as a rugged powerhouse in the fitness tracking world, combining military-grade durability with comprehensive health monitoring in a package that can handle everything from … [+2614 chars]"
-    },
-    {
       "source": { "id": null, "name": "BBC News" },
-      "author": "Joe Rindl",
-      "title": "Maddison does 'talking on the pitch' in response to critics",
-      "description": "James Maddison did his best to \"block out the noise\" by scoring the winner as he helped Tottenham beat Manchester United in the Premier League on Sunday.",
-      "url": "https://www.bbc.com/sport/football/articles/cr7e7ndjyrmo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cabb/live/1e506fa0-ecad-11ef-a819-277e390a7a08.jpg",
-      "publishedAt": "2025-02-16T21:21:47Z",
-      "content": "James Maddison says he is doing his \"talking on the pitch\" in response to the critics who questioned him before he scored the winner as Tottenham beat Manchester United on Sunday.\r\nMaddison was the o… [+1587 chars]"
+      "author": null,
+      "title": "Trump to sign order banning transgender women from female sports",
+      "description": "He says the move, which covers non-elite levels, restores fairness but human rights advocates have condemned it.",
+      "url": "https://www.bbc.com/news/articles/c20g85k3z35o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4080/live/6e652190-e3d7-11ef-b564-41750c4ba94b.jpg",
+      "publishedAt": "2025-02-05T18:55:46Z",
+      "content": "US President Donald Trump will sign an executive order that prevents transgender women from competing in female categories of sports, according to White House officials. \r\nThe order will provide guid… [+2465 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Thomas Maxwell",
+      "title": "Robinhood’s Terrible Plan to Get Into Sports Betting Paused After Government Pushback",
+      "description": "This one should probably stay in the dustbin.",
+      "url": "https://gizmodo.com/robinhoods-terrible-plan-to-get-into-sports-betting-paused-after-government-pushback-2000559169",
+      "urlToImage": "https://gizmodo.com/app/uploads/2023/05/a62ebf48cfa397d82e90f36f1e79e141.jpg",
+      "publishedAt": "2025-02-04T20:30:10Z",
+      "content": "Robinhood has ceased the rollout of its sports betting product following a request by the Commodity Futures Trading Commission (CFTC). The stock trading company geared at individual investors had bee… [+4294 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Wes Davis",
+      "title": "YouTube TV has a deal to keep Paramount content",
+      "description": "Days after YouTube published a blog post saying it could lose Paramount content soon, it updated the post to announce a deal to keep it. The company posted on X that, as a result, channels such as CBS, CBS Sports, and Nickelodeon and add-ons like Paramount Pl…",
+      "url": "https://www.theverge.com/news/613936/youtube-tv-paramount-deal-cbs-sports-nickelodeon",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986638/acastro_STK092_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-16T14:34:36Z",
+      "content": "Days after YouTube published a blog post saying it could lose Paramount content soon, it updated the post to announce a deal to keep it. The company posted on X that, as a result, channels such as CB… [+1364 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Gael Cooper",
+      "title": "Today's NYT Connections: Sports Edition Hints and Answers for Feb. 6 #136",
+      "description": "Here's today's Connections: Sports Edition answer and hints for groups. These clues will help you solve The New York Times' popular puzzle game, Connections: Sports Edition, every day.",
+      "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-136/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a51721727ac6b71b8d078d611ca37505b9006739/hub/2024/10/16/ae3b5078-3ced-47c9-91dd-6b5b1b1a5809/connections-sports-edition-6832.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-05T21:00:07Z",
+      "content": "Looking for the most recent Connections: Sports Edition answers? Click here for today's Connections: Sports Edition hints, as well as our daily answers and hints for The New York Times Mini Crossword… [+2121 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "The Associated Press",
+      "title": "NCAA bars transgender athletes from women's sports after Trump order",
+      "description": "The move came one day after President Donald Trump signed an executive order intended to ban transgender athletes from girls' and women's sports.",
+      "url": "https://www.npr.org/2025/02/07/g-s1-46938/ncaa-transgender-athletes-ban-trump",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6865x3862+0+358/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F7c%2Ffc8db4f74eba85a3f677f3dce3d9%2Fap25035690342749.jpg",
+      "publishedAt": "2025-02-07T05:35:28Z",
+      "content": "The NCAA changed its participation policy for transgender athletes on Thursday, limiting competition in women's sports to athletes who were assigned female at birth.\r\nThe move came one day after Pres… [+5395 chars]"
     },
     {
       "source": { "id": null, "name": "MacRumors" },
       "author": "Joe Rossignol",
-      "title": "Apple's New Invites App Hints at iOS 19's Rumored Redesign",
-      "description": "iOS 19 is rumored to feature a redesigned Camera app with visionOS-like menus and buttons, but the changes might go beyond that.\n\n\n\n\n\nAs noted by Apple enthusiast Parker Ortolani, both the Apple Sports app from last year and the new Apple Invites app have a m…",
-      "url": "https://www.macrumors.com/2025/02/06/apple-invites-app-hints-at-ios-19-redesign/",
-      "urlToImage": "https://images.macrumors.com/t/ZhlSp-BYCkBI5M9MWmnDp4W9_-I=/2500x/article-new/2024/11/iOS-19-Roundup-Feature.jpg",
-      "publishedAt": "2025-02-06T21:06:35Z",
-      "content": "iOS 19 is rumored to feature a redesigned Camera app with visionOS-like menus and buttons, but the changes might go beyond that.\r\nAs noted by Apple enthusiast Parker Ortolani, both the Apple Sports a… [+836 chars]"
+      "title": "Apple Sports App Updated With NASCAR Support Ahead of Daytona 500",
+      "description": "Apple today updated its Sports app for the iPhone with NASCAR support, ahead of the Daytona 500 race on Sunday, February 16.\n\n\n\n\n\nThe release notes for version 2.5 of the Apple Sports app:• Start your engines! NASCAR is now on Apple Sports. Get live race cove…",
+      "url": "https://www.macrumors.com/2025/02/10/apple-sports-app-nascar/",
+      "urlToImage": "https://images.macrumors.com/t/uXcKj52OngPh7QFVVH8PhuJyBKc=/1920x/article-new/2025/02/Apple-Sports-NASCAR.jpg",
+      "publishedAt": "2025-02-10T16:18:24Z",
+      "content": "Apple today updated its Sports app for the iPhone with NASCAR support, ahead of the Daytona 500 race on Sunday, February 16.\r\nThe release notes for version 2.5 of the Apple Sports app:\r\n Start your e… [+453 chars]"
     },
     {
-      "source": { "id": "espn", "name": "ESPN" },
-      "author": "David Purdum",
-      "title": "'An insatiable acquisitions appetite': Sports betting industry facing major challenges despite growth",
-      "description": "Betting has exploded out of the shadows and into the mainstream, but significant challenges remain to keep the industry on track.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/43956734/sports-betting-industry-facing-major-challenges-growth",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0224%2Fr1456008_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-02-24T16:50:10Z",
-      "content": "On a chilly Wednesday evening in Atlantic City, New Jersey, four bettors sat in a restaurant booth inside a casino on the boardwalk, their table full of fried food and fountain drinks. March Madness … [+14116 chars]"
+      "source": { "id": null, "name": "NPR" },
+      "author": "Gene Demby",
+      "title": "The NFL is removing 'End Racism' from its Super Bowl end zone",
+      "description": "Here's what the decision by America's favorite sports league tells us about \"anticipatory obedience.\"",
+      "url": "https://www.npr.org/2025/02/08/nx-s1-5290233/nfl-super-bowl-end-racism-end-zone",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+285/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F19%2F2a98dccb4bf797b2104804bef39f%2Fgettyimages-1271793048.jpg",
+      "publishedAt": "2025-02-08T11:00:00Z",
+      "content": "You're reading the Code Switch newsletter, written by Gene Demby.\r\nYou can subscribe here to get the newsletter delivered to your inbox, and listen to the Code Switch podcast to hear about all the me… [+3017 chars]"
     },
     {
-      "source": { "id": null, "name": "Digital Trends" },
-      "author": "Bryan M. Wolfe",
-      "title": "Apple Sports App adds NASCAR coverage ahead of 2025 season",
-      "description": "The free Apple Sports app has added another sport to its coverage, just in time for the sport's biggest event.",
-      "url": "https://www.digitaltrends.com/mobile/apple-sports-app-adds-nascar-coverage-ahead-of-2025-season/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/02/apple-sports-app-nascar.jpeg?resize=1200%2C630&p=1",
-      "publishedAt": "2025-02-10T17:21:48Z",
-      "content": "—As the Daytona 500 approaches this weekend, Apple has added NASCAR coverage to the Apple Sports app that launched last year. Since launching in February 2024, the Apple Sports app has gradually adde… [+1519 chars]"
+      "source": { "id": null, "name": "Slate Magazine" },
+      "author": "Candice Lim and Kate Lindsay",
+      "title": "The TikTokification of Sports",
+      "description": "Fancams, fashion, and fan-favorite couples are just a few of the many ways sports is getting the TikTok treatment.",
+      "url": "https://slate.com/podcasts/icymi/2025/02/how-tiktok-is-changing-sports-culture",
+      "urlToImage": "https://compote.slate.com/images/72459277-7ce1-4d02-af6f-ddb83a67534c.gif?crop=1560%2C1040%2Cx0%2Cy0++Photo+illustration+by+Slate.+Photo+by+TikTok%2C+Eagles%2C+and+Chiefs.&width=1560",
+      "publishedAt": "2025-02-08T10:00:00Z",
+      "content": "Candice Lim and Kate Lindsay are not the worlds biggest sports fans, but are now more tuned in than ever thanks to TikTok. In todays episode, the pair talk about how everything from fancams to fashio… [+263 chars]"
     },
     {
-      "source": { "id": null, "name": "The Atlantic" },
-      "author": "Jerusalem Demsas",
-      "title": "Why States Took a Gamble on Sports Betting",
-      "description": "States bet on sports gambling, but their residents could be paying the price",
-      "url": "https://www.theatlantic.com/podcasts/archive/2025/01/why-states-legalized-sports-betting/681483/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/OCYwg9zbCtPDpumTdrZUKWgHy-A=/0x58:2880x1558/1200x625/media/img/mt/2025/01/GOP_episode_sports_betting_horizontal/original.jpg",
-      "publishedAt": "2025-01-28T11:00:00Z",
-      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsAddiction comes in many forms and a lot of them are perfectly legal.Daily, I fight the urge to scroll—for hours—on various … [+49556 chars]"
-    },
-    {
-      "source": { "id": "business-insider", "name": "Business Insider" },
-      "author": "insider@insider.com (Lillian Brown)",
-      "title": "How to watch 4 Nations Face-off: Live stream the new hockey tournament anywhere",
-      "description": "A brand-new ice hockey tournament is here, and we'll show you how to watch the 4 Nations Face-Off.",
-      "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-4-nations-face-off-hockey-2025",
-      "urlToImage": "https://i.insider.com/67ace434eb4be2fff9a46be0?width=1200&format=jpeg",
-      "publishedAt": "2025-02-12T21:01:02Z",
-      "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nThere's no NHL All-Star game this year, but a brand-new tournament has emerged in its place. We've compi… [+7966 chars]"
+      "source": { "id": null, "name": "CNET" },
+      "author": "Gael Cooper",
+      "title": "NYT Connections: Sports Edition Puzzle Comes Out of Beta on Super Bowl Sunday",
+      "description": "Now, the game will show up in the Times Games app, where the Feb. 9 Connections: Sports Edition game will be Super Bowl-themed.",
+      "url": "https://www.cnet.com/tech/gaming/nyt-connections-sports-edition-puzzle-comes-out-of-beta-on-super-bowl-sunday/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/30f374d39d02506b57dc41f5cd9661596d485168/hub/2024/10/16/21824273-92d2-4f03-bd97-654f2a4f8175/connections-sports-edition-6869.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-03T20:04:20Z",
+      "content": "Sports fans may already be playing the New York Times' Connections: Sports Edition daily puzzle, which the newspaper has been offering in beta since September 2024. But on Super Bowl Sunday, Feb. 9, … [+2674 chars]"
     },
     {
       "source": { "id": null, "name": "Android Central" },
-      "author": "patrick.farmer@futurenet.com (Patrick Farmer)",
-      "title": "Is this a typo? The Amazfit GTR 3 Pro is currently 33% OFF at Amazon, totally clobbering its Black Friday price",
-      "description": "Head to Amazon right now and you'll score a whopping 33% discount on the Amazfit GTR 3 Pro, a last-gen smartwatch that still holds up today.",
-      "url": "https://www.androidcentral.com/wearables/is-this-a-typo-the-amazfit-gtr-3-pro-is-currently-33-percent-off-at-amazon-totally-clobbering-its-black-friday-price",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o3WXLjDad6JQHfgpyHhjCC-1200-80.jpg",
-      "publishedAt": "2025-02-20T23:02:06Z",
-      "content": "Sure, everybody loves brand new devices, but if you don't mind going last-gen, you can find some seriously excellent smartwatch deals that other shoppers might have missed. Grab the Amazfit GTR 3 Pro… [+1395 chars]"
+      "author": "bradypsnyder@gmail.com (Brady Snyder)",
+      "title": "Paramount and YouTube TV finalize deal keeping CBS, CBS Sports available",
+      "description": "YouTube and Paramount were struggling to reach \"a fair deal,\" potentially causing all 30+ Paramount channels to disappear. That crisis was avoided.",
+      "url": "https://www.androidcentral.com/streaming-tv/paramount-and-youtube-tv-finalize-deal-keeping-cbs-cbs-sports-available",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GGeShzgoboKpPTK4qqCPFK-1200-80.jpg",
+      "publishedAt": "2025-02-17T18:47:59Z",
+      "content": "What you need to know\r\n<ul><li>Paramount channels will be available on YouTube TV for the foreseeable future as the two sides reached an agreement.</li><li>The deal comes after the two sides publicly… [+2284 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Thomas Macaulay",
+      "title": "European sports tech heads to US with media giant Comcast",
+      "description": "Two European sports tech startups are heading to the US for an R&D programme run by media giant Comcast. Ireland’s Orreco will cross the Atlantic with a trove of athletic performance software, while Iceland’s Oz Sports will bring an AI-driven camera system. O…",
+      "url": "https://thenextweb.com/news/european-sports-tech-startups-join-comcast-accelerator",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F02%2FUntitled-design-8-1.jpg&signature=6e928b2fb55dc1d87b107df598328c63",
+      "publishedAt": "2025-02-25T13:05:06Z",
+      "content": "Two European sports tech startups are heading to the US for an R&amp;D programme run by media giant Comcast.\r\nIrelands Orreco will cross the Atlantic with a trove of athletic performance software, wh… [+4567 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Mackenzie Meaney",
+      "title": "These charts show why Netflix is chasing more live sports — and its key challenge",
+      "description": "The Paul vs. Tyson fight on Netflix attracted 1.4 million signups, demonstrating Netflix's plan for using live sports to drive subscriber growth.",
+      "url": "https://www.businessinsider.com/netflix-live-sports-streams-acquire-millions-subscribers-charts-2025-2",
+      "urlToImage": "https://i.insider.com/67be3c9de015c5d98a6aeacd?width=1024&format=jpeg",
+      "publishedAt": "2025-02-26T17:53:47Z",
+      "content": "Jake Paul beat 58-year-old Mike Tyson in a highly-viewed Netflix live event.Al Bello/Getty Images for Netflix © 2024\r\n<ul><li>Netflix's Jake Paul vs. Mike Tyson fight and NFL games drove surges in da… [+3760 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Amanda Goh",
+      "title": "Kansas City Chiefs' chef shares the protein-heavy breakfast that's become a team favorite",
+      "description": "What many people think of as a \"traditional breakfast\" may not look the same for everyone, Yasi Ansari, a sports dietician based in LA, told BI.",
+      "url": "https://www.businessinsider.com/kansas-city-chiefs-chef-steak-rice-popular-breakfast-diet-protein-2025-2",
+      "urlToImage": "https://i.insider.com/67a4206ceb4be2fff9a3b1c8?width=1200&format=jpeg",
+      "publishedAt": "2025-02-06T05:50:56Z",
+      "content": "The Kansas City Chiefs will face off against the Philadelphia Eagles at Super Bowl LIX on Sunday.Patrick T. Fallon / AFP\r\n<ul><li>The Kansas City Chiefs are facing off against the Philadelphia Eagles… [+4218 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "Windsor Johnston",
+      "title": "With the surge in sports betting, the risk of gambling addiction rises too",
+      "description": "Mobile apps have put sportsbooks in the hands of millions, and experts are seeing a surge in betting — and higher risk of problem gambling. As the Super Bowl approaches, a recovering addict shares his story.",
+      "url": "https://www.npr.org/2025/02/07/g-s1-47093/super-bowl-sports-betting-gambling-addiction",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2515x1414+0+762/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2F24%2Fa889470c489abda25028371182de%2Fjordan-holt.jpg",
+      "publishedAt": "2025-02-07T23:25:41Z",
+      "content": "\"I literally couldn't stop.\" \r\nThat's how Jordan Holt describes the moment that he hit rock bottom with his sports gambling compulsion. The 44-year-old from Yuma, Arizona, says he started placing wag… [+5752 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "Joe Hernandez",
+      "title": "Don't give a hoot about sports? The Superb Owl might be for you",
+      "description": "What began as an accidental misspelling or an online joke has soared into a cultural phenomenon.",
+      "url": "https://www.npr.org/2025/02/06/nx-s1-5285704/superb-owl-super-bowl-reddit-meme",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4498x2530+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F32%2F447fa672485db41bc417be315c01%2Fgettyimages-2150152440.jpg",
+      "publishedAt": "2025-02-06T10:00:00Z",
+      "content": "For people who don't give a hoot about sports, there's more than just football to celebrate this weekend.\r\nSay hello to the Superb Owl.\r\nThe anagrammatic play on Super Bowl began as an accidental mis… [+2563 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Gabby Landsverk",
+      "title": "Eggs are expensive — a sports dietitian shares 4 cheaper high-protein ingredients to buy instead",
+      "description": "Stop breaking the bank on eggs. For protein, swap in budget-friendly ingredients like beans and dairy, and eat the rainbow to get yolk nutrients.",
+      "url": "https://www.businessinsider.com/affordable-high-protein-alternatives-to-eggs-dietitian-advice-2025-2",
+      "urlToImage": "https://i.insider.com/67aa700b6630eb10385c28ff?width=1200&format=jpeg",
+      "publishedAt": "2025-02-11T17:35:02Z",
+      "content": "If eggs are breaking your budget, try high-protein alternatives like beans and dairy.ollo/Getty Images\r\n<ul><li>Eggs are no longer the affordable high-protein staple they used to be.</li><li>Eating a… [+5565 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "scohen@insider.com (Steven Cohen)",
+      "title": "As a TV expert, these are the top 2 models I recommend for the Super Bowl and general sports viewing",
+      "description": "The Super Bowl is right around the corner, and there's still time to get a new display. Here are our top two TV picks ideal for big-screen sports.",
+      "url": "https://www.businessinsider.com/guides/tech/top-sports-super-bowl-tvs-2025-2",
+      "urlToImage": "https://i.insider.com/67a1275feb4be2fff9a354ad?width=1200&format=jpeg",
+      "publishedAt": "2025-02-03T21:02:15Z",
+      "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nThe Super Bowl is nearly here, and more events, like March Madness, are on the horizon. With that in min… [+8519 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Puma and Brooks Sports settle running-shoe trademark dispute",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e3dec4b2-1d0a-4067-b528-f6545b3e2a26",
+      "urlToImage": null,
+      "publishedAt": "2025-02-25T12:11:59Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "Ben Collins",
+      "title": "Mourinho given four-match ban for comments after Istanbul derby",
+      "description": "Fenerbahce manager Jose Mourinho is banned for four games and fined £35,194 for comments after Monday's game with Galatasaray.",
+      "url": "https://www.bbc.com/sport/football/articles/crmjjdy4e4jo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f896/live/862d6910-f54b-11ef-9acd-4337bb242d8e.png",
+      "publishedAt": "2025-02-27T20:59:09Z",
+      "content": "Fenerbahce manager Jose Mourinho has been banned for four games and fined a total of £35,194 for comments made after Monday's game with local rivals Galatasaray.\r\nMourinho was accused by Galatasaray … [+2024 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Thomas Maxwell",
+      "title": "Disney+ Lost 700,000 Subscribers to Close Out 2024",
+      "description": "Regular price hikes and the end of password sharing might be having some affect.",
+      "url": "https://gizmodo.com/disney-lost-700000-subscribers-to-close-out-2024-2000559670",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Disney-Plus.jpg",
+      "publishedAt": "2025-02-05T17:45:47Z",
+      "content": "The days of Disney+ growing like gangbusters seem well and finally over. Disney stock is down slightly on Wednesday following its release of earnings for the final three months of 2024, which include… [+3489 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Matthew Gault",
+      "title": "How Gun Lobbyists Fed Customer Data to Cambridge Analytica",
+      "description": "Gun lobbyists spent decades collecting customer data and fed it to the now-disgraced consulting firm to help sway the 2016 election.",
+      "url": "https://gizmodo.com/how-gun-lobbyists-fed-customer-data-to-cambridge-analytica-2000559641",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/NSSFShow.jpg",
+      "publishedAt": "2025-02-05T16:45:40Z",
+      "content": "Gun lobbyists spent decades building a database of gun owners in the United States. During the 2016 election, it turned the information over to the now-disgraced political consulting group Cambridge … [+3500 chars]"
     },
     {
       "source": { "id": null, "name": "VentureBeat" },
-      "author": "Taryn Plumb",
-      "title": "Fast break AI: How Databricks helped the Pacers slash ML costs 12,000X% while speeding up insights",
-      "description": "Analysis Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More Stats might be everything in basketball — but for Pacers Sports and Entertainment (PS&E), data about fans is just as valuab…",
-      "url": "https://venturebeat.com/ai/fast-break-ai-how-databricks-helped-the-pacers-slash-ml-costs-12000x-while-speeding-up-insights/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/02/Pacers.jpeg?w=1024?w=1200&strip=all",
-      "publishedAt": "2025-02-11T16:26:29Z",
-      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nStats might be everything in basketball but for Pacers Sports and Enter… [+8994 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Gael Cooper",
-      "title": "Today's NYT Mini Crossword Answers for Wednesday, Feb. 12",
-      "description": "Here's today's NYT Mini Crossword answer. These answers will help you solve New York Times' popular crossword game, Mini Crossword, every day!",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-12/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5a44b4083f306f5c685f3e792be0473edc33c848/hub/2024/07/19/a459b55d-d069-4efa-bab4-4a28dfe8cc45/nyt-mini-crossword.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-12T03:07:00Z",
-      "content": "Looking for the most recent Mini Crossword answer? Click here for today's Mini Crossword hints, as well as our daily answers and hints for The New York Times Wordle, Strands, Connections and Connecti… [+1683 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Gael Cooper",
-      "title": "Today's NYT Mini Crossword Answers for Friday, Feb. 14",
-      "description": "Here's today's NYT Mini Crossword answer. These answers will help you solve New York Times' popular crossword game, Mini Crossword, every day!",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-14/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5a44b4083f306f5c685f3e792be0473edc33c848/hub/2024/07/19/a459b55d-d069-4efa-bab4-4a28dfe8cc45/nyt-mini-crossword.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-14T03:09:44Z",
-      "content": "Looking for the most recent Mini Crossword answer? Click here for today's Mini Crossword hints, as well as our daily answers and hints for The New York Times Wordle, Strands, Connections and Connecti… [+1640 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Gael Cooper",
-      "title": "Today's NYT Mini Crossword Answers for Tuesday, Feb. 25",
-      "description": "Here's today's NYT Mini Crossword answer. These answers will help you solve New York Times' popular crossword game, Mini Crossword, every day!",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-25/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5a44b4083f306f5c685f3e792be0473edc33c848/hub/2024/07/19/a459b55d-d069-4efa-bab4-4a28dfe8cc45/nyt-mini-crossword.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-25T04:27:22Z",
-      "content": "Looking for the most recent Mini Crossword answer? Click here for today's Mini Crossword hints, as well as our daily answers and hints for The New York Times Wordle, Strands, Connections and Connecti… [+1655 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Gael Cooper",
-      "title": "Today's NYT Mini Crossword Answers for Saturday, Feb. 15",
-      "description": "Here's today's NYT Mini Crossword answer. These answers will help you solve New York Times' popular crossword game, Mini Crossword, every day!",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-feb-15/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5a44b4083f306f5c685f3e792be0473edc33c848/hub/2024/07/19/a459b55d-d069-4efa-bab4-4a28dfe8cc45/nyt-mini-crossword.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-15T06:38:44Z",
-      "content": "Looking for the most recent Mini Crossword answer? Click here for today's Mini Crossword hints, as well as our daily answers and hints for The New York Times Wordle, Strands, Connections and Connecti… [+1846 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Gael Cooper",
-      "title": "Today's NYT Mini Crossword Answers for Tuesday, Feb. 4",
-      "description": "Here's today's NYT Mini Crossword answer. These answers will help you solve New York Times' popular crossword game, Mini Crossword, every day!",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-4/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5a44b4083f306f5c685f3e792be0473edc33c848/hub/2024/07/19/a459b55d-d069-4efa-bab4-4a28dfe8cc45/nyt-mini-crossword.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-04T04:06:40Z",
-      "content": "Looking for the most recent Mini Crossword answer? Click here for today's Mini Crossword hints, as well as our daily answers and hints for The New York Times Wordle, Strands, Connections and Connecti… [+1743 chars]"
-    },
-    {
-      "source": { "id": "business-insider", "name": "Business Insider" },
-      "author": "Jenny McGrath",
-      "title": "Meet Eagles' star quarterback Jalen Hurts and his family, including his college sweetheart",
-      "description": "Jalen Hurts is the quarterback for the Philadelphia Eagles, and his family are his support system. They've helped him with his career.",
-      "url": "https://www.businessinsider.com/who-is-jalen-hurts-philadelphia-eagles-family-fiancee",
-      "urlToImage": "https://i.insider.com/67a5517cbfebcc4d029e23f1?width=1200&format=jpeg",
-      "publishedAt": "2025-02-07T17:08:36Z",
-      "content": "Jalen Hurts is the quarterback for the Philadelphia Eagles.Eric Christian Smith/AP Images\r\n<ul><li>Jalen Hurts will play in his second Super Bowl on Sunday, February 9.</li><li>The Eagles' quarterbac… [+4764 chars]"
-    },
-    {
-      "source": { "id": "business-insider", "name": "Business Insider" },
-      "author": "Kelly Burch",
-      "title": "Tearing my ACL led me to become a doctor and now I treat the US ski team. Here are my tips for protecting your knees.",
-      "description": "Julia Iafrate tore her ACL at 18, which led her to become a doctor. Hormones can make women more prone to ACL injury.",
-      "url": "https://www.businessinsider.com/doctor-us-ski-team-why-women-tear-the-acls-more-2025-2",
-      "urlToImage": "https://i.insider.com/67a275f7bfebcc4d029dbeb8?width=1200&format=jpeg",
-      "publishedAt": "2025-02-11T01:12:02Z",
-      "content": "Julia Iafrate (not pictured) is a doctor working with the US Ski Team.Javier Zayas Photography/Getty Images\r\n<ul><li>Dr. Julia Iafrate, DO, practices sports medicine, and physical medicine and rehabi… [+4277 chars]"
+      "author": "Dean Takahashi",
+      "title": "Esports World Cup Foundation teams with Tencent on esports",
+      "description": "The Esports World Cup Foundation (EWCF) today announced a partnership with Tencent, making Tencent E-sports its strategic partner in China.",
+      "url": "https://venturebeat.com/games/esports-world-cup-foundation-team-swith-tencent-on-esports/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/02/EWC-Tencent-Hero-Graphic.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-02-17T09:51:00Z",
+      "content": "The Esports World Cup Foundation (EWCF) today announced a partnership with Tencent, making Tencent E-sports its strategic partner in China.\r\nThe aims is to drive the expansion of the Esports World Cu… [+3528 chars]"
     },
     {
       "source": { "id": "espn", "name": "ESPN" },
       "author": null,
-      "title": "Penn, SJSU under scrutiny over trans athletes",
-      "description": "The Trump administration is investigating potential civil rights violations at two universities and a high school sports league that allowed transgender athletes to compete on women's teams, according to the Education Department.",
-      "url": "https://www.espn.com/college-sports/story/_/id/43721309/penn-sjsu-draw-inquiries-amid-trump-ban-trans-athletes",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1008%2Fr1398075_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-02-06T19:48:07Z",
-      "content": "The Trump administration is investigating potential civil rights violations at two universities and a high school sports league that allowed transgender athletes to compete on women's teams, the Educ… [+4230 chars]"
+      "title": "N.H. teens to fight Trump order on trans athletes",
+      "description": "A 15-year-old soccer player and 14-year-old tennis player who are challenging New Hampshire's ban on transgender athletes on girls sports teams will now fight President Trump's executive order \"Keeping Men Out of Women's Sports.\"",
+      "url": "https://www.espn.com/espn/story/_/id/43812374/teens-fight-trump-keep-men-women-sports-order",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0206%2Fr1448393_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-02-12T20:18:55Z",
+      "content": "Feb 12, 2025, 02:57 PM ET\r\nTwo students challenging New Hampshire's ban on transgender athletes on girls sports teams will also fight President Donald Trump's executive order, \"Keeping Men Out of Wom… [+2443 chars]"
     },
     {
-      "source": { "id": "espn", "name": "ESPN" },
-      "author": "David Hale and Andrea Adelson",
-      "title": "Sources: ESPN set to televise ACC through 2036",
-      "description": "ESPN has agreed to pick up its option to broadcast ACC sports through 2036, sources told ESPN. The pickup comes as ACC works toward settling lawsuits by Clemson and Florida State.",
-      "url": "https://www.espn.com/college-sports/story/_/id/43623233/sources-espn-ok-option-televise-acc-sports-36",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F1005%2Fr269405_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-01-30T14:07:31Z",
-      "content": "Jan 30, 2025, 09:07 AM ET\r\nIn a critical step toward securing stability for the conference, ESPN has agreed to pick up its option to continue broadcasting ACC sports through 2036, sources told ESPN o… [+5787 chars]"
-    },
-    {
-      "source": { "id": "espn", "name": "ESPN" },
-      "author": "Jesse Rogers",
-      "title": "MLB fires umpire Hoberg for gambling violations",
-      "description": "MLB upheld its firing of umpire Pat Hoberg for \"sharing\" sports betting accounts with a poker player and friend who bet on baseball. There is no direct evidence Hoberg bet on baseball himself.",
-      "url": "https://www.espn.com/mlb/story/_/id/43680990/mlb-upholds-firing-ump-pat-hoberg-gambling-violations",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0614%2Fr1345949_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-02-03T21:25:51Z",
-      "content": "Following a lengthy appeals process, Major League Baseball on Monday has fired umpire Pat Hoberg for \"sharing\" sports betting accounts with a friend who bet on baseball and for intentionally deleting… [+4111 chars]"
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Wes Davis",
+      "title": "The Vision Pro NBA app turns some games into a miniature 3D diorama",
+      "description": "The NBA has introduced a new AR feature for its Vision Pro app this week called Tabletop, which places a floating render of a basketball court in your space during “select” live games, according to an NBA help page describing the feature. On the court, digita…",
+      "url": "https://www.theverge.com/news/613796/nba-tabletop-ar-vision-pro-app-league-pass",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-15-at-8.26.49%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C8.1704889019984%2C100%2C83.659022196003&w=1200",
+      "publishedAt": "2025-02-15T15:32:50Z",
+      "content": "It really makes you want to reach out and pick up one of the players.\r\n\n\nThe NBA has introduced a new AR feature for its Vision Pro app this week called Tabletop, which places a floating render of a … [+2108 chars]"
     },
     {
       "source": { "id": null, "name": "BBC News" },
-      "author": "Ffion Wynne",
-      "title": "England mishandled 'pin-up girl' Wong - Robinson",
-      "description": "Ex-England coach Mark Robinson says the England and Wales Cricket Board (ECB) made mistakes in their management of young fast bowler Issy Wong.",
-      "url": "https://www.bbc.com/sport/cricket/articles/cwyegy640r3o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3920/live/7e61bf50-e052-11ef-b129-dfc3f5f0afac.jpg",
-      "publishedAt": "2025-02-01T04:21:58Z",
-      "content": "World Cup-winning coach Mark Robinson believes England need to learn from the poor management of young fast bowler Issy Wong. \r\nWong made her debut in all three formats as a 20-year-old in 2022 and w… [+1695 chars]"
+      "author": "Ben Collins",
+      "title": "Chiefs bid for immortality - countdown to Super Bowl 59 begins",
+      "description": "All you need to know about Super Bowl 59, one of the biggest sporting events on the planet, as the build-up begins to Sunday's game in New Orleans.",
+      "url": "https://www.bbc.com/sport/american-football/articles/cpql49p5n55o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3067/live/f8d69cb0-e1fb-11ef-bd1b-d536627785f2.png",
+      "publishedAt": "2025-02-03T09:54:46Z",
+      "content": "In the major US sports leagues, a three-peat is when a team becomes national champions three years running.\r\nIt has been done five times in both basketball's NBA and ice hockey's NHL, and four times … [+736 chars]"
     },
     {
-      "source": { "id": null, "name": "Digital Trends" },
-      "author": "Simon Cohen",
-      "title": "Leaked Powerbeats Pro 2 pics give us our first real look at Beats’ next earbuds",
-      "description": "Looks like the new sports-oriented earbuds will have fitness tracking features.",
-      "url": "https://www.digitaltrends.com/home-theater/beats-powerbeats-pro-2-leaked-images/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/01/beats-powerbeats-pro-2-leak-arsene-lupin-2.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2025-01-28T21:21:41Z",
-      "content": "In September 2024, Beats took the unusual step of announcing that it was working on the much-anticipated second-gen of its Powerbeats Pro wireless earbuds and that we could expect to see them launch … [+1984 chars]"
+      "source": { "id": "time", "name": "Time" },
+      "author": "Joe Reedy / AP",
+      "title": "Fox Says Super Bowl LIX Hit Record Viewership",
+      "description": "Fox Sports is projecting a Super Bowl record average audience of 126 million U.S. viewers across television and streaming platforms.",
+      "url": "https://time.com/7216501/super-bowl-lix-2025-viewership-record-fox-tv-streaming-audience/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/patrick-mahomes-super-bowl-59.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2025-02-11T04:00:00Z",
+      "content": "Fox Sports is projecting a Super Bowl record average audience of 126 million U.S. viewers across television and streaming platforms for Philadelphias 40-22 victory over Kansas City on Sunday night.\r\n… [+2080 chars]"
     },
     {
-      "source": { "id": null, "name": "The Atlantic" },
-      "author": "Jordan Sargent",
-      "title": "Why Does Following the NBA Require a Business Degree?",
-      "description": "The financialization of sports has hit pro basketball, where economic regulations now rule the sport.",
-      "url": "https://www.theatlantic.com/culture/archive/2025/02/nba-cba-complicated-trade-rules/681587/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/Tbgw3XWjCJrkcf3EbwtJABpXSeA=/0x680:2160x1805/1200x625/media/img/mt/2025/02/NBA_Atlantic_Crop/original.jpg",
-      "publishedAt": "2025-02-06T16:07:16Z",
-      "content": "When he was first hired as an intern for the New Jersey Nets in 1996, Bobby Marks was tasked with ferrying new head coach John Calipari around the team’s home base of East Rutherford. After proving h… [+12648 chars]"
+      "source": { "id": null, "name": "CNET" },
+      "author": "Kevin Lynch",
+      "title": "Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Werder Bremen From Anywhere",
+      "description": "The Bavarians are looking to claim an eighth straight win in the league.",
+      "url": "https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-werder-bremen-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d3fe9a21ecce13549f751df5e32044fe359cab48/hub/2025/02/07/0f560d69-daaf-4189-a882-628cdde6097b/gettyimages-2196976723.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-07T19:28:14Z",
+      "content": "Bayern Munich will want to extend their lead at the top of Germany's Bundesliga on Friday as they host midtable Werder Bremen at the Allianz Arena. \r\nCurrently 6 points clear at the summit, Bayern bo… [+5031 chars]"
     },
     {
-      "source": { "id": null, "name": "NPR" },
-      "author": "Juliana Kim",
-      "title": "Canadian fans boo U.S. national anthem at NBA matchup as tariff dispute heats up",
-      "description": "Canadians showed their displeasure on Sunday at the Toronto Raptors' game against the LA Clippers in Toronto, Canada. Similar jeers broke out at National Hockey League games over the weekend.",
-      "url": "https://www.npr.org/2025/02/03/nx-s1-5284859/canada-trump-tariffs-boo-national-anthem",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5788x3256+0+302/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2Fd2%2Fe81a71bd488ca701263c8e2db142%2Fgettyimages-2196802399.jpg",
-      "publishedAt": "2025-02-03T14:57:32Z",
-      "content": "Tensions have been brewing between the United States and Canada ever since President Trump ignited a trade war with America's neighbors and now, it's spilling over into the world of sports.\r\nOn Sunda… [+1726 chars]"
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Meredith Deliso",
+      "title": "Police investigate drugging in Super Bowl sports reporter's death",
+      "description": "A woman who allegedly had Adan Manzano's cellphone and credit card in her home was arrested on property offenses, police said.",
+      "url": "https://abcnews.go.com/US/super-bowl-sports-reporter-death-investigation/story?id=118657797",
+      "urlToImage": "https://i.abcnewsfe.com/a/21b70a16-9d7d-45da-a545-ca81fc173e64/adan-manzano-ap-jt-250208_1739050945222_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-10T20:05:12Z",
+      "content": "Police in Louisiana said Monday they are investigating the possibility that a sports reporter who had traveled to New Orleans to cover the Super Bowl may have been drugged before his death.\r\nAdan Man… [+3133 chars]"
     },
     {
-      "source": { "id": null, "name": "NPR" },
-      "author": "The Associated Press",
-      "title": "Dick Button, Olympic great and voice of skating, dies at 95",
-      "description": "The winner of two Olympic gold medals and five consecutive world championships, Button died Thursday in North Salem, New York, at age 95.",
-      "url": "https://www.npr.org/2025/01/30/nx-s1-5281468/dick-button-dead-skating-olympics",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3932x2212+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Fb2%2Fcf1315c949bc8de5aa12fe489a26%2Fap25031034279748.jpg",
-      "publishedAt": "2025-01-31T02:30:06Z",
-      "content": "NEW YORK (AP) Dick Button was more than the most accomplished men's figure skater in history. He was one of his sport's great innovators and promoters, the man responsible not only for inventing the … [+5214 chars]"
+      "source": { "id": null, "name": "CNET" },
+      "author": "Kevin Lynch",
+      "title": "Bundesliga Soccer Livestream: How to Watch Bayer Leverkusen vs. Bayern Munich From Anywhere",
+      "description": "Xabi Alonso's side need a win at the BayArena to keep their title defence alive.",
+      "url": "https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayer-leverkusen-vs-bayern-munich-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2a578dea60e47a163586267c0a726d41e3e5fc88/hub/2025/02/15/c03c2ed6-28b3-428b-bec9-c6dd4a50d720/gettyimages-2199164286.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-15T14:30:07Z",
+      "content": "Bayer Leverkusen host leaders Bayern Munich on Saturday, knowing that nothing less than win will likely be enough to keep their faltering hopes of retaining their Bundesliga title alive. \r\nDespite lo… [+5027 chars]"
     },
     {
-      "source": { "id": null, "name": "NPR" },
-      "author": "The Associated Press",
-      "title": "Former Spain soccer official Rubiales goes on trial for unsolicited kiss of player",
-      "description": "The former president of the Spanish soccer federation goes on trial Monday accused of sexual assault for kissing forward Jenni Hermoso after Spain's victory at the Women's World Cup final in 2023.",
-      "url": "https://www.npr.org/2025/02/03/g-s1-46175/rubiales-goes-on-trial-for-unsolicited-kiss-of-player",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6477x3643+0+337/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F51%2Faebf1f5f42a3813edc201ea097a8%2Fap25033503362403.jpg",
-      "publishedAt": "2025-02-03T09:14:12Z",
-      "content": "MADRID The former president of the Spanish soccer federation goes on trial Monday accused of sexual assault for kissing forward Jenni Hermoso after Spain's victory at the Women's World Cup final in 2… [+4217 chars]"
+      "source": { "id": null, "name": "CNET" },
+      "author": "Kevin Lynch",
+      "title": "Ligue 1 Soccer: Livestream PSG vs. Monaco From Anywhere",
+      "description": "French big guns meet for the third time in six weeks.",
+      "url": "https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-monaco-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d23c3ef1d5c305a59e979109c409a1a4e7fe711f/hub/2025/02/07/438de1b5-7708-4757-88f7-88a931364aa0/gettyimages-2197661612.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-07T19:30:03Z",
+      "content": "It's a first-vs.-third clash in Paris on Friday as Ligue 1 leader PSG host Monaco in a match that's likely to have a big impact on the title race. \r\nPSG currently have a comfortable 10-point cushion … [+5808 chars]"
     },
     {
-      "source": { "id": null, "name": "Nabraj.com" },
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Chris Haslam",
+      "title": "Your Earbuds Are Gross. Here’s How to Clean Them Properly",
+      "description": "Filthy buds look bad, impact sound quality and even risk infection. WIRED asked the experts how to correctly banish that ear gunk.",
+      "url": "https://www.wired.com/story/your-earbuds-are-gross-heres-how-to-clean-them-properly/",
+      "urlToImage": "https://media.wired.com/photos/67b4ea32e3e0b9831f2dbce5/191:100/w_1280,c_limit/airpod-cleaning-gear.jpg",
+      "publishedAt": "2025-02-19T13:00:00Z",
+      "content": "Have you looked closely at your earbuds lately? I did, and I was horrified at how gross they were. My trusty Apple AirPods had become so mucky and caked in ear wax I was genuinely embarrassed, and al… [+3553 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
       "author": null,
-      "title": "Basketball Is a Solved Sport",
-      "description": "the personal homepage of NT - Nabraj covering tech world, sports, philosophy and random musings.",
-      "url": "https://nabraj.com/blog/basketball-solved-sport/",
+      "title": "Two transgender girls sue to challenge Trump’s executive order banning them from girls’ school sports",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9f945868-d1bb-492c-985d-72e6889d3751",
       "urlToImage": null,
-      "publishedAt": "2025-02-15T18:21:10Z",
-      "content": "Basketball has evolved from a game of unpredictability into a game of calculated decision-making with the use of data and analytics. From a game of points, assists, and rebounds, it has progressed in… [+2714 chars]"
+      "publishedAt": "2025-02-12T19:58:12Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
     },
     {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Kevin Lynch",
-      "title": "How to Watch 2025 ICC Champions Trophy Cricket Live From Anywhere",
-      "description": "The ninth edition of cricket's \"mini World Cup\" takes place in Pakistan and Dubai over the next three weeks.",
-      "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-2025-icc-champions-trophy-cricket-live-from-anywhere/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/fee97da2881e99d6a646a189b48f2681831b80b1/hub/2025/02/20/c1cf7c7f-728d-4257-a013-902822254864/gettyimages-2185868185.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-20T17:30:03Z",
-      "content": "Eight of the world's cricketing superpowers face off in Pakistan and Dubai this month for the ninth edition of the ICC Champions Trophy, a tournament in the sport's 50-over format. \r\nIn-form one-day … [+8848 chars]"
-    },
-    {
-      "source": { "id": null, "name": "BBC News" },
-      "author": "Iain Carter",
-      "title": "Boom or bust? Golf in flux but is it really thriving?",
-      "description": "With golf back live on free-to-air television in the UK, the leader of the free world brokering a united future and top stars growing the game on a giant simulator, should we be looking at the sport from a glass half full perspective, writes Iain Carter.",
-      "url": "https://www.bbc.com/sport/golf/articles/c15z1kjlg5xo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97cd/live/50558fe0-e7bb-11ef-ae7d-97b156abf29f.jpg",
-      "publishedAt": "2025-02-10T14:20:08Z",
-      "content": "At its recreational level the post-covid boom is being sustained. More people are playing, 'influencers' are attracting dedicated followings and the latest season of a behind the scenes docu-series i… [+5141 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Android Central" },
-      "author": "techkritiko@gmail.com (Jay Bonggolto)",
-      "title": "OnePlus' new health lab is a big step for its wellness technology",
-      "description": "OnePlus debuts a new health lab in China, doubling down on next-gen wellness tech.",
-      "url": "https://www.androidcentral.com/wearables/oneplus-new-health-lab-is-a-big-step-for-its-wellness-technology",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BqzGoXiKPCZEGmGKJmtdoX-1200-80.png",
-      "publishedAt": "2025-02-09T15:39:55Z",
-      "content": "What you need to know\r\n<ul><li>OnePlus has opened a massive 4,840m² Health Lab in Guangdong, China, built to push the limits of wellness innovation.</li><li>The lab is stacked with high-end gear, fro… [+2354 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Kevin Lynch",
-      "title": "Europa League Soccer: Livestream Tottenham vs. Elfsborg From Anywhere",
-      "description": "Spurs look to put their dismal Premier League form to one side as they host the Swedish outfit.",
-      "url": "https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-tottenham-vs-elfsborg-from-anywhere/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/cebd9aecff4087a980dca166ee3b20260e4e782b/hub/2025/01/30/a306adce-6135-4353-a0b5-07ba8cac8937/gettyimages-2188930034.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-30T17:00:23Z",
-      "content": "Spurs welcome Allsvenskan team Elfsborg to Tottenham Hotspur Stadium on Thursday for this key UEFA Europa League match, knowing that a draw will be enough to secure a place in the last 16 of the tour… [+4763 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNET" },
-      "author": "Kevin Lynch",
-      "title": "Copa del Rey Soccer Livestream: How to Watch Valencia vs. Barcelona From Anywhere",
-      "description": "A place in the semifinals is on the line at the Estadio de Mestalla.",
-      "url": "https://www.cnet.com/tech/services-and-software/copa-del-rey-soccer-livestream-how-to-watch-valencia-vs-barcelona-from-anywhere/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9facd04e7f9aff4124e8277a1d855447bbfc4183/hub/2025/02/06/0e95fca4-e009-4845-8965-f1f7c16ba9bc/gettyimages-2196647670.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-06T18:04:31Z",
-      "content": "Valencia will be aiming to get revenge as well as a place in the final four of the Copa del Rey when they host Barcelona on Thursday, in what looks set to be an intriguing quarterfinal. \r\nThis cup cl… [+4931 chars]"
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Holt High sports programs safe but issues persist, school superintendent says",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e47d00-3c13-4e48-9ace-e4af67425770",
+      "urlToImage": null,
+      "publishedAt": "2025-02-18T10:11:14Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
     }
   ],
   "technology": [
@@ -987,6 +997,16 @@
       "content": "When I spoke with Guldin in December, after the first stage of the pilot had finished, he sketched a rough vision of what this work could look like in the not-too-distant future. Robotic crawlers equ… [+4137 chars]"
     },
     {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "AJ Dellinger",
+      "title": "Google Is Developing Technology to Deliver Internet Via Light Bridges",
+      "description": "Taara is the latest moonshot out of Alphabet’s X lab.",
+      "url": "https://gizmodo.com/google-is-developing-technology-to-deliver-internet-via-light-bridges-2000570215",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Google.jpg",
+      "publishedAt": "2025-02-28T21:40:09Z",
+      "content": "Google just had a lightbulb moment, and it might move internet access out of the (literal) dark ages. Over at the company’s moonshot factory X, researchers have developed a chip that they believe sho… [+2742 chars]"
+    },
+    {
       "source": { "id": "wired", "name": "Wired" },
       "author": "Alden Wicker",
       "title": "The World Is in a Polyester Crisis. One Company Is Trying to Recycle a Way Out",
@@ -995,16 +1015,6 @@
       "urlToImage": "https://media.wired.com/photos/67b60d747c5f6923e99e93aa/191:100/w_1280,c_limit/reju4.jpg",
       "publishedAt": "2025-02-21T12:00:00Z",
       "content": "Im on an overnight flight from New York to Frankfurt, Germany, and the accoutrements given to me in business class have a sustainable sheen. Both the polyester blanket and polyester flight kit proudl… [+3048 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Gizmodo.com" },
-      "author": "Isaac Schultz",
-      "title": "NASA Just Fired up Its Quiet Supersonic Jet—and It Looks Like Pure Speed",
-      "description": "The X-59 is proving out the agency's quiet supersonic technology, and looking great in the process.",
-      "url": "https://gizmodo.com/nasa-just-fired-up-its-quiet-supersonic-jet-and-it-looks-like-pure-speed-2000562983",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test.jpg",
-      "publishedAt": "2025-02-17T11:00:21Z",
-      "content": "NASA just wrapped engine performance tests on its X-59 research aircraft, which the space agency hopes will prove a means of mitigating supersonic aircraft’s odious sonic booms.\r\nNASA and Lockheed Ma… [+3849 chars]"
     },
     {
       "source": { "id": null, "name": "Gizmodo.com" },
@@ -1018,33 +1028,13 @@
     },
     {
       "source": { "id": null, "name": "Gizmodo.com" },
-      "author": "Lorelei Kelly, The Conversation",
-      "title": "The Communications Tech Used by Congress Is Absurdly Out of Date",
-      "description": "The technology that runs Congress lags so far behind the modern world that its flag-tracking system just caught up to 2017-era Pizza Hut.",
-      "url": "https://gizmodo.com/the-communications-tech-used-by-congress-is-absurdly-out-of-date-2000555700",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/file-20250115-15-gjkj4m.jpg",
-      "publishedAt": "2025-01-28T13:22:21Z",
-      "content": "On a typical day, you cant turn on the news without hearing someone say that Congress is broken. The implication is that this dereliction explains why the institution is inert and unresponsive to the… [+7125 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Gizmodo.com" },
-      "author": "Matthew Gault",
-      "title": "Remember When Nanotech Was the Next Big Thing?",
-      "description": "As the market reckons with AI's future, it's good to remember that we've been through this boom and bust hype cycle with technology before.",
-      "url": "https://gizmodo.com/remember-when-nanotech-was-the-next-big-thing-2000555775",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/NanoTech2005.jpg",
-      "publishedAt": "2025-01-28T16:15:30Z",
-      "content": "Tell me if any of this sounds familiar.\r\nIn the early 2000s, after the collapse of the dotcom bubble, a new technology was set to change humanity and line inventors pockets. Venture capitalists inves… [+5427 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Gizmodo.com" },
       "author": "Isaac Schultz",
-      "title": "Caltech’s Lightsail Experiment Brings Interstellar Travel Closer to Reality",
-      "description": "Powered by laser light, this tiny sail lays the groundwork for future advances in lightsail technology and the potential for interstellar propulsion.",
-      "url": "https://gizmodo.com/caltechs-lightsail-experiment-brings-interstellar-travel-closer-to-reality-2000557508",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/lightsail-design-caltech.jpg",
-      "publishedAt": "2025-01-31T16:45:20Z",
-      "content": "A team of researchers at the California Institute of Technology devised a means of measuring the thin membranes of a lightsail, helping prove out a futuristic travel concept first imagined by Johanne… [+2922 chars]"
+      "title": "NASA Just Fired up Its Quiet Supersonic Jet—and It Looks Like Pure Speed",
+      "description": "The X-59 is proving out the agency's quiet supersonic technology, and looking great in the process.",
+      "url": "https://gizmodo.com/nasa-just-fired-up-its-quiet-supersonic-jet-and-it-looks-like-pure-speed-2000562983",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test.jpg",
+      "publishedAt": "2025-02-17T11:00:21Z",
+      "content": "NASA just wrapped engine performance tests on its X-59 research aircraft, which the space agency hopes will prove a means of mitigating supersonic aircraft’s odious sonic booms.\r\nNASA and Lockheed Ma… [+3849 chars]"
     },
     {
       "source": { "id": "the-verge", "name": "The Verge" },
@@ -1067,6 +1057,16 @@
       "content": "Lost Records: Bloom &amp; Rage blends its teen drama with a heavy dose of 90s nostalgia\r\nThe latest from Life is Strange studio Dont Nod is a time-spanning adventure about connecting with old friends… [+7476 chars]"
     },
     {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jay Peters",
+      "title": "Here’s a new trailer for the ambitious survival game from PUBG’s creator",
+      "description": "PlayerUnknown Productions, the studio from PUBG creator Brendan Greene (aka PlayerUnknown), has shared a gameplay trailer for Prologue: Go Wayback!, a single-player survival game that’s launching in early access on Steam this year. The studio previously share…",
+      "url": "https://www.theverge.com/news/620988/playerunknown-productions-prologue-go-wayback-trailer",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-29-01-73.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-02-27T18:44:02Z",
+      "content": "The game looks like it will feature gorgeous wooded areas.\r\nThe game looks like it will feature gorgeous wooded areas.\r\nPlayerUnknown Productions, the studio from PUBG creator Brendan Greene (aka Pla… [+893 chars]"
+    },
+    {
       "source": { "id": null, "name": "Gizmodo.com" },
       "author": "Todd Feathers",
       "title": "‘Clearly Discrimination’: How a City Uses Fusus to Spy on Its Poorest Residents",
@@ -1085,6 +1085,26 @@
       "urlToImage": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
       "publishedAt": "2025-02-12T22:25:30Z",
       "content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test fe… [+1053 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Juli Clover",
+      "title": "Apple Releases Safari Technology Preview 214 With Bug Fixes and Performance Improvements",
+      "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S…",
+      "url": "https://www.macrumors.com/2025/02/27/apple-releases-safari-technology-preview-214/",
+      "urlToImage": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "publishedAt": "2025-02-27T23:23:01Z",
+      "content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test fe… [+968 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Verge Press Room",
+      "title": "The Verge hires Tina Nguyen as senior reporter to cover the Trump administration",
+      "description": "Tina Nguyen is joining The Verge as a senior reporter, covering the Trump administration, Elon Muskâs takeover of the federal government, and the tech industryâs embrace of the MAGA movement. Nguyen joins The Verge from Puck, where she was a founding part…",
+      "url": "https://www.theverge.com/press-room/621557/tina-nguyen-joins-verge",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Tina_Portrait-_Horiz.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-28T19:15:04Z",
+      "content": "Nguyen will cover the tech industrys embrace of the MAGA movement.\r\nNguyen will cover the tech industrys embrace of the MAGA movement.\r\nTina Nguyen is joining The Verge as a senior reporter, covering… [+3522 chars]"
     },
     {
       "source": { "id": null, "name": "CNET" },
@@ -1147,6 +1167,16 @@
       "content": "Occidental Petroleum is just saying the quiet part out loud now instead of pretending to prioritize climate change.\r\nOccidental Petroleum is just saying the quiet part out loud now instead of pretend… [+4851 chars]"
     },
     {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Andrew Liszewski",
+      "title": "The armless PP-1 turntable is made from a solid block of aluminum",
+      "description": "A Paris-based creative studio has announced a minimalist turntable with controls streamlined to just a play button and a volume knob. Waiting For Ideas’ PP-1 — short for Plug and Play — doesn’t even have a visible tonearm, and it’s made from a solid block of …",
+      "url": "https://www.theverge.com/news/621863/waiting-for-ideas-pp-1-turntable-solid-aluminum-vinyl-record",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/pp1_turntable1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "publishedAt": "2025-02-28T20:30:58Z",
+      "content": "You can show off your vinyl on the PP-1 which doesn’t have a visible tonearm or stylus. | Image: Waiting For Ideas\r\n\n\nA Paris-based creative studio has announced a minimalist turntable with controls … [+1855 chars]"
+    },
+    {
       "source": { "id": null, "name": "CNET" },
       "author": "Joe Supan",
       "title": "The Triumphs and Troubles of the 7,000 Starlink Satellites Crowding Our Night Skies",
@@ -1157,26 +1187,6 @@
       "content": "Two years ago, communities across Northwest Alaska woke to find that they had no internet or cellphone service. A mammoth piece of arctic sea ice had scraped the ocean floor 34 miles north of Oliktok… [+33465 chars]"
     },
     {
-      "source": { "id": null, "name": "Slashdot.org" },
-      "author": "BeauHD",
-      "title": "Alphabet's Waymo To Test Its Autonomous Driving Technology In Over 10 New Cities",
-      "description": "An anonymous reader quotes a report from Reuters: Alphabet's self-driving unit Waymo announced on Wednesday it plans to expand testing of its autonomous driving technology in over 10 new cities in 2025. After testing the Waymo Driver in multiple cities, the c…",
-      "url": "https://tech.slashdot.org/story/25/01/29/2159203/alphabets-waymo-to-test-its-autonomous-driving-technology-in-over-10-new-cities",
-      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
-      "publishedAt": "2025-01-29T22:00:00Z",
-      "content": "Alphabet's self-driving unit Waymo announced on Wednesday it plans to expand testing of its autonomous driving technology in over 10 new cities in 2025. After testing the Waymo Driver in multiple cit… [+803 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Slashdot.org" },
-      "author": "BeauHD",
-      "title": "Technology For Lab-Grown Eggs Or Sperm On Brink of Viability, UK Watchdog Finds",
-      "description": "An anonymous reader quotes a report from The Guardian: Bolstered by Silicon Valley investment, scientists are making such rapid progress that lab-grown human eggs and sperm could be a reality within a decade, a meeting of the Human Fertilization and Embryolog…",
-      "url": "https://science.slashdot.org/story/25/01/29/001209/technology-for-lab-grown-eggs-or-sperm-on-brink-of-viability-uk-watchdog-finds",
-      "urlToImage": "https://a.fsdn.com/sd/topics/biotech_64.png",
-      "publishedAt": "2025-01-29T03:30:00Z",
-      "content": "Bolstered by Silicon Valley investment, scientists are making such rapid progress that lab-grown human eggs and sperm could be a reality within a decade, a meeting of the Human Fertilization and Embr… [+2158 chars]"
-    },
-    {
       "source": { "id": "business-insider", "name": "Business Insider" },
       "author": "Julia Hornstein",
       "title": "Google's latest change to its AI policies signals how Silicon Valley is warming up to the defense industry",
@@ -1185,6 +1195,16 @@
       "urlToImage": "https://i.insider.com/67a29d157bb3f854015bc0e0?width=1200&format=jpeg",
       "publishedAt": "2025-02-05T00:18:40Z",
       "content": "Google headquarters in Mountain View, California.Tayfun Coskun/Anadolu via Getty Images\r\n<ul><li>Google updated its ethical AI guidelines in a blog post on Tuesday.</li><li>The post omitted a 2018 st… [+3403 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Alexandra Jones",
+      "title": "It Costs a Lot to Replace EV Batteries, but How Often Do You Need to?",
+      "description": "Battery technology has made significant strides. With modern EV batteries now lasting over 100,000 miles, you might not feel the need to replace them.",
+      "url": "https://www.cnet.com/home/electric-vehicles/it-costs-a-lot-replace-ev-batteries-but-how-often-do-you-need-to/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/651ecf22644d5d4248bb4ecec9e3446544cb2c08/hub/2023/03/06/db264935-bdc6-4d9f-bcef-560d33c1fcac/hyundai-kona-electric-732183.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-27T19:20:00Z",
+      "content": "Electric vehicles are becoming more affordable each year, with purchase prices now nearing those of gas-powered cars, as reported by the Washington Post.\r\nHowever, the debate between EVs and internal… [+8330 chars]"
     },
     {
       "source": { "id": null, "name": "CNET" },
@@ -1239,16 +1259,6 @@
     {
       "source": { "id": "business-insider", "name": "Business Insider" },
       "author": "Bianca Chan",
-      "title": "This startup is bringing AI agents to banks and money managers including UBS, Blue Owl Capital, and T. Rowe Price. Here's the deck it used to raise $8 million.",
-      "description": "Auquan's technology has saved 20 different clients a collective 50,000 hours worth of work producing thousands of due diligence reports.",
-      "url": "https://www.businessinsider.com/ai-agent-fintech-auquans-pitch-deck-seed-round-2025-1",
-      "urlToImage": "https://i.insider.com/679d0b8eeb4be2fff9a31ae0?width=1200&format=jpeg",
-      "publishedAt": "2025-01-31T18:04:48Z",
-      "content": "Chandini Jain, CEO of Auquan.Auquan\r\n<ul><li>Auquan was founded in 2018 by Chandini Jain, a former analyst and derivatives trader.</li><li>It launched an AI product in late 2023 that can automate res… [+4983 chars]"
-    },
-    {
-      "source": { "id": "business-insider", "name": "Business Insider" },
-      "author": "Bianca Chan",
       "title": "The secretive world of Wall Street technology is opening up like never before",
       "description": "Wall Street firms are increasingly making their internal tech free and available to use and modify — but they're not worried about losing an edge.",
       "url": "https://www.businessinsider.com/inside-open-source-wall-street-technology-ai-2025-2",
@@ -1269,12 +1279,12 @@
     {
       "source": { "id": null, "name": "Gizmodo.com" },
       "author": "Brittany Vincent",
-      "title": "Vizio 50-Inch Smart TV Drops to Its Lowest Price Just in Time for Super Bowl Prep",
-      "description": "This Vizio TV is Apple AirPlay and Chromecast built-in.",
-      "url": "https://gizmodo.com/vizio-50-inch-smart-tv-drops-to-its-lowest-price-just-in-time-for-super-bowl-prep-2000556104",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/vizioquantum.jpg",
-      "publishedAt": "2025-01-29T13:20:29Z",
-      "content": "Looking for a TV that punches above its price class? Vizio’s 50-inch QLED has dropped to a price point that makes premium features surprisingly accessible. While top-tier TVs often command prices tha… [+2160 chars]"
+      "title": "Forget JBL, This Anker Soundcore 2 Portable Speaker Drops to Just $28 for a Limited Time",
+      "description": "This speaker has a lengthy battery life and everything you need to take the party wherever you go.",
+      "url": "https://gizmodo.com/forget-jbl-this-anker-soundcore-2-portable-speaker-drops-to-just-28-for-a-limited-time-2000569042",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/ansoundcore2.jpg",
+      "publishedAt": "2025-02-27T17:15:02Z",
+      "content": "The Anker Soundcore 2 combines portability with impressive audio performance, offering a rugged, waterproof design that delivers rich sound wherever life takes you. This compact powerhouse features 1… [+2337 chars]"
     },
     {
       "source": { "id": null, "name": "Yahoo Entertainment" },
@@ -1305,16 +1315,6 @@
       "urlToImage": "https://media.wired.com/photos/67a3f1f04f15e3b078c343a1/191:100/w_1280,c_limit/Musk-Government-AI-Agents-Business-1162457239.jpg",
       "publishedAt": "2025-02-07T02:20:03Z",
       "content": "For the past few weeks, Musks team has been working to swiftly cut costs across the US government, which has seen its annual deficit increase for the last three years. The Office of Personnel Managem… [+3278 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Slashdot.org" },
-      "author": "msmash",
-      "title": "Comcast Is Rolling Out 'Ultra-Low Lag' Tech That Could Fix the Internet",
-      "description": "Comcast is deploying \"Low Latency, Low Loss, Scalable Throughput\" (L4S) technology across its Xfinity internet network in six U.S. cities, a system that reduces the time data packets take to travel between users and servers. Initial trials showed a 78% reduct…",
-      "url": "https://tech.slashdot.org/story/25/01/29/1738249/comcast-is-rolling-out-ultra-low-lag-tech-that-could-fix-the-internet",
-      "urlToImage": "https://a.fsdn.com/sd/topics/internet_64.png",
-      "publishedAt": "2025-01-29T18:10:00Z",
-      "content": "Rollin' out the colocs and adding transparent proxies to everyone's home routers. By the way the innovative and blinding speed will ONLY be another $20/mo. For a limited time. If you don't want the s… [+310 chars]"
     },
     {
       "source": { "id": "business-insider", "name": "Business Insider" },
@@ -1365,6 +1365,86 @@
       "urlToImage": "https://media.wired.com/photos/67af89857dee8eed7170b1eb/191:100/w_1280,c_limit/GettyImages-2156615862.jpg",
       "publishedAt": "2025-02-17T13:53:12Z",
       "content": "Quantum computing hasenormous potential, but it faces a scalability problem. For such a machine to be useful in real terms, multiple quantum processors need to be assembled in a single location. This… [+3291 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "£22bn for 'unproven' green tech could raise bills, MPs warn",
+      "description": "The Public Accounts Committee warns the government of gambling public money on carbon capture.",
+      "url": "https://www.bbc.com/news/articles/ce8jpj3z3n2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ef9/live/a7641150-e4a3-11ef-bef0-5f51bf28fa22.jpg",
+      "publishedAt": "2025-02-07T00:12:34Z",
+      "content": "Esme StallardClimate and science reporter, BBC News\r\nThe government is committing billions of pounds to an \"unproven\" green technology for reducing planet-warming gases without considering the impact… [+4656 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VentureBeat" },
+      "author": "Dean Takahashi",
+      "title": "Livewire launches Gamer.ID identity solution for brands and agencies to reach gamers",
+      "description": "Livewire, a game marketing startup, has launched Gamer.ID, a next-generation identity framework within its Gameview technology stack.",
+      "url": "https://venturebeat.com/games/livewire-launches-gamer-id-identity-solution-for-brands-and-agencies-to-reach-gamers/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/02/livewire.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-02-25T14:15:00Z",
+      "content": "Livewire, a game marketing startup, has launched Gamer.ID, a next-generation identity framework within its Gameview technology stack. \r\nPowered by Optables identity management and data collaboration … [+5905 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Andrew J. Hawkins",
+      "title": "Volvo’s ES90 sedan will be built with a Nvidia supercomputer",
+      "description": "Volvo’s next electric vehicle, the ES90 midsized luxury sedan, sounds like its got some serious computing chops. The new EV will come with a dual Nvidia Drive AGX Orin configuration, making it the “most powerful car Volvo ever created in terms of core computi…",
+      "url": "https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/341170_Volvo_ES90_teaser_image.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2025-02-19T21:24:22Z",
+      "content": "The ES90 will be based on Volvos Superset tech stack comprising all modules and functionalities that we will use in our future product line-up.\r\nThe ES90 will be based on Volvos Superset tech stack c… [+2654 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "Becky Sullivan",
+      "title": "Everything to know about the MLB's ball-strike challenge system at spring training",
+      "description": "This spring, MLB players can challenge ball and strike calls. The camera-based system is only an experiment for now — but it has the baseball world wondering where to draw the line with technology.",
+      "url": "https://www.npr.org/2025/02/20/nx-s1-5304103/mlb-ball-strike-umpire-abs-challenge",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+187/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Feb%2Fef962df042a2a8f1aab1d0473360%2Fap24153770667952.jpg",
+      "publishedAt": "2025-02-20T20:10:10Z",
+      "content": "PHOENIX For more than 150 years, the game of baseball has relied on humans behind home plate to call balls and strikes.\r\nThis spring, for the first time in Major League history, players will be able … [+7824 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": "msmash",
+      "title": "Western Digital Aims For 100TB Hard Drives by 2030",
+      "description": "Western Digital plans to introduce its first heat-assisted magnetic recording (HAMR) drives in late 2026, with 36TB conventional magnetic recording (CMR) and 44TB shingled UltraSMR variants. Volume production won't begin until the first half of 2027, followin…",
+      "url": "https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030",
+      "urlToImage": "https://a.fsdn.com/sd/topics/storage_64.png",
+      "publishedAt": "2025-02-14T20:01:00Z",
+      "content": "Western Digital plans to introduce its first heat-assisted magnetic recording (HAMR) drives in late 2026, with 36TB conventional magnetic recording (CMR) and 44TB shingled UltraSMR variants. Volume p… [+547 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VentureBeat" },
+      "author": "Dean Takahashi",
+      "title": "The Game Company raises $10M on blockchain-based cloud gaming",
+      "description": "The Game Company, a Dubai gaming startup, has raised $10 million to build the next cloud gaminginfrastructure based on blockchain technology.",
+      "url": "https://venturebeat.com/games/the-game-company-raises-10m-on-blockchain-based-cloud-gaming/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/02/tgc-3.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-02-06T14:00:00Z",
+      "content": "The Game Company (TCG), a Dubai gaming startup, has raised $10 million through equity and token sales to build the next cloud gaming infrastructure based on blockchain technology.\r\nOver the past two … [+5660 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Mike Taylor",
+      "title": "Groundbreaking recycling process could prevent millions of pounds of clothing waste — here's how",
+      "description": "\"Our ambition is to advance this technology to the next phase of commercialization.\"",
+      "url": "https://www.yahoo.com/tech/groundbreaking-recycling-process-could-prevent-113015097.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Zj.0ZDkR.c1oeX0zcPQhBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/8641bae04ad7184712762d46ecd425e9",
+      "publishedAt": "2025-02-16T11:30:15Z",
+      "content": "A new textile recycling process holds the promise of cleaning up the planet and boosting the circular economy.\r\nIt easily separates cotton from polyester, producing usable glucose from the former and… [+3040 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Brittany Vincent",
+      "title": "Amazon Just Marked Down ASUS Portable Monitor to Its Best Price in Months for Presidents’ Day",
+      "description": "Two screens is better than one, and you can get everything done faster with this affordable monitor.",
+      "url": "https://gizmodo.com/amazon-just-marked-down-asus-portable-monitor-to-its-best-price-in-months-for-presidents-day-2000564309",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/asusmonitor.jpg",
+      "publishedAt": "2025-02-17T14:40:01Z",
+      "content": "When it comes to maximizing productivity on the go, the Asus ZenScreen Portable Monitor stands out as a professional-grade solution for expanding your workspace. This sleek and versatile display tran… [+2626 chars]"
     }
   ]
 }

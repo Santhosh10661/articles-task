@@ -18,7 +18,7 @@ function App() {
   const data = useSelector((state) => state.data.data);
   const themeDark = useSelector((state) => state.theme.dark);
   const [loading, setLoading] = useState(true);
-
+  console.log(data);
   useEffect(() => {
     const Fetch = async () => {
       const SS_Data = JSON.parse(sessionStorage.getItem("data"));
