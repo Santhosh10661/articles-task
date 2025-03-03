@@ -1,6 +1,7 @@
 import React from "react";
 import { dateConvertion } from "./Template";
 import { useNavigate } from "react-router-dom";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 const SearchedArticles = (props) => {
   const navigate = useNavigate();
@@ -28,10 +29,11 @@ const SearchedArticles = (props) => {
                   style={{ width: "100%" }}
                   onClick={() => navigate(`/fullarticle/${item.id}`)}
                 >
-                  <img
+                  <LazyLoadImage
                     src={item.urlToImage}
                     alt=""
-                    className=" aspect-1/1 object-cover rounded-md"
+                    className="  object-cover rounded-md"
+                    effect="blur"
                   />
                   <p className="mt-5">{dateConvertion(item.publishedAt)}</p>
                   <h1 className="text-2xl line-clamp-2 font-medium my-2">

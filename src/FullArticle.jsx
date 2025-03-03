@@ -82,11 +82,12 @@ const FullArticle = (props) => {
                   className="w-full h-fit cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3"
                   onClick={() => navigate(`/fullarticle/${item.id}`)}
                   key={item.id}
+                  style={{ height: "100%" }}
                 >
                   <LazyLoadImage
                     src={item.urlToImage}
                     alt=""
-                    className="aspect-1/1"
+                    className="object-cover"
                     effect="blur"
                   />
 
