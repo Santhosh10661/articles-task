@@ -24,6 +24,7 @@ const PopularArticles = (props) => {
             className={`cursor-pointer  shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
               themeDark ? "bg-gray-900" : "bg-gray-50"
             }`}
+            style={{ height: "100%" }}
             onClick={() => navigate(`/fullarticle/${data[0].id}`)}
           >
             <LazyLoadImage
@@ -34,18 +35,18 @@ const PopularArticles = (props) => {
               effect="blur"
             />
             <p className="mt-5">{dateConvertion(data[0].publishedAt)}</p>
-            <h1 className="text-4xl truncate font-medium py-4">
+            <h1 className="text-4xl line-clamp-2 font-medium my-4">
               {data[0].title}
             </h1>
             <p className="text-xl">{data[0].description}</p>
           </article>
         </div>
 
-        <div className=" lg:w-50 flex-1 flex flex-col mx-3 xl:mx-10 ">
+        <div className=" lg:w-50 flex-1 grid grid-cols-1 gap-10 mx-3 xl:mx-10 ">
           {data.slice(2, 5).map((da) => {
             return (
               <article
-                className={`flex flex-1 mb-5 cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
+                className={`flex flex-1  cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
                   themeDark ? "bg-gray-900" : "bg-gray-50"
                 }`}
                 onClick={() => navigate(`/fullarticle/${da.id}`)}
@@ -55,7 +56,7 @@ const PopularArticles = (props) => {
                   <LazyLoadImage
                     src={da.urlToImage}
                     alt=""
-                    className="rounded-md aspect-1/1"
+                    className="rounded-md object-cover"
                     effect="blur"
                   />
                 </div>
