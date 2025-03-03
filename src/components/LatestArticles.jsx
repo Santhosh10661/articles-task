@@ -41,7 +41,7 @@ const LatestArticles = (props) => {
           {paginatedItems.map((item) => (
             <article
               key={item.id}
-              className={`h-full w-full  cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3 ${
+              className={`h-full w-full  cursor-pointer shadow-sm hover:shadow-2xl transition-shadow duration-300 p-3 ${
                 themeDark ? "bg-gray-900" : "bg-gray-50"
               }`}
               // style={{ width: "100%" }}

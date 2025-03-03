@@ -79,7 +79,7 @@ const FullArticle = (props) => {
             {related.map((item) => {
               return (
                 <article
-                  className="w-full h-fit cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3"
+                  className="w-full h-fit cursor-pointer shadow-sm hover:shadow-2xl transition-shadow duration-300 p-3"
                   onClick={() => navigate(`/fullarticle/${item.id}`)}
                   key={item.id}
                   style={{ height: "100%" }}
