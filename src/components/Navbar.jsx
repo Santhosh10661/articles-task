@@ -1,7 +1,7 @@
 import React from "react";
+import { Button } from "rsuite";
 import { useState } from "react";
 import WorldLogo from "../assets/worldLogo.png";
-import { FaUser } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { setTheme } from "../redux/app/slices/themeReducer";
@@ -61,16 +61,18 @@ export default function Navbar() {
 
           <div className="relative flex justify-evenly">
             {/* theme change button */}
-            <button
-              className={`px-4 py-2 rounded-full cursor-pointer ${
-                themeDark
-                  ? "bg-gray-50 text-gray-800"
-                  : "bg-gray-800 text-gray-50"
-              }`}
+            <Button
+              className={`px-4 py-2 rounded-full cursor-pointer `}
+              style={{
+                fontSize: "1.3rem",
+                borderRadius: "20px",
+                backgroundColor: themeDark ? "#f9fafb" : "#1e2939",
+                color: themeDark ? "#1e2939" : "#f9fafb",
+              }}
               onClick={() => dispatch(setTheme(!themeDark))}
             >
               {themeDark ? <MdLightMode /> : <GiNightSleep />}
-            </button>
+            </Button>
             <div className=" flex items-center sm:hidden">
               <button
                 type="button"

@@ -1,6 +1,7 @@
 import React from "react";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
+import { Button } from "rsuite";
 import { useState } from "react";
 import { FaArrowRightLong, FaArrowLeftLong } from "react-icons/fa6";
 import { useNavigate } from "react-router-dom";
@@ -64,19 +65,23 @@ const LatestArticles = (props) => {
 
         {/* ✅ Pagination Controls */}
         <div className="flex items-center justify-between px-4 py-3 sm:px-6 mt-6 ">
-          <button
+          <Button
             onClick={goToPreviousPage}
             disabled={currentPage === 1}
-            className={`relative inline-flex items-center rounded-full shadow-md border px-4 py-2 text-sm font-medium ${
-              themeDark ? "bg-gray-900" : "bg-gray-50"
-            }   hover:${themeDark ? "bg-gray-700" : "bg-gray-50"} ${
+            className={`relative inline-flex items-center px-4 py-2 text-sm font-medium  ${
               currentPage === 1
                 ? "opacity-50 cursor-not-allowed"
                 : "cursor-pointer "
             }`}
+            style={{
+              border: "1px solid",
+              borderRadius: "20px",
+              color: themeDark ? "#f9fafb" : "#1e2939",
+              backgroundColor: themeDark ? "#1e2939" : "#f9fafb",
+            }}
           >
             <FaArrowLeftLong className=" mx-2" /> Previous
-          </button>
+          </Button>
 
           <span
             className={`text-sm   ${
@@ -87,20 +92,24 @@ const LatestArticles = (props) => {
             <span className="font-medium">{totalPages}</span>
           </span>
 
-          <button
+          <Button
             onClick={goToNextPage}
             disabled={currentPage === totalPages}
-            className={`relative inline-flex items-center rounded-full shadow-md border px-4 py-2 text-sm font-medium ${
-              themeDark ? "bg-gray-900" : "bg-gray-50"
-            } hover:${themeDark ? "bg-gray-700" : "bg-gray-50"} ${
+            className={`relative px-4 py-2 text-sm font-medium  ${
               currentPage === totalPages
                 ? "opacity-50 cursor-not-allowed"
                 : "cursor-pointer "
             }`}
+            style={{
+              border: "1px solid",
+              borderRadius: "20px",
+              color: themeDark ? "#f9fafb" : "#1e2939",
+              backgroundColor: themeDark ? "#1e2939" : "#f9fafb",
+            }}
           >
             Next
             <FaArrowRightLong className=" mx-2" />
-          </button>
+          </Button>
         </div>
       </div>
     </section>
