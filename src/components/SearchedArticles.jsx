@@ -23,9 +23,9 @@ const SearchedArticles = (props) => {
           {searchedArticles.length !== 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10">
               {searchedArticles.map((item) => (
-                <div
+                <article
                   key={item.id}
-                  className=" h-full w-full sm:w-1/2 md:w-1/3 cursor-pointer shadow-sm hover:shadow-xl transition-shadow duration-300 p-3"
+                  className=" h-full w-full sm:w-1/2 md:w-1/3 cursor-pointer shadow-sm hover:shadow-2xl transition-shadow duration-300 p-3"
                   style={{ width: "100%" }}
                   onClick={() => navigate(`/fullarticle/${item.id}`)}
                 >
@@ -40,7 +40,7 @@ const SearchedArticles = (props) => {
                     {item.title}
                   </h1>
                   <p className="text-xl line-clamp-2">{item.description}</p>
-                </div>
+                </article>
               ))}
             </div>
           ) : (

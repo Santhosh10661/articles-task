@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Navbar from "./Navbar";
-import { FaArrowRightLong } from "react-icons/fa6";
+import SearchBtn from "./SearchBtn";
 
 const Hero = (props) => {
   let { classN, qoutes, setIsSearched, FindTheArticles } = props;
@@ -62,7 +62,7 @@ const Hero = (props) => {
                 className="p-3 w-auto text-gray-800 flex-2 border-none outline-none text-xl font-medium"
                 placeholder="Search"
               />
-              <button
+              {/* <button
                 className="bg-gray-800 text-gray-50 px-5 py-1 rounded-full flex-1 cursor-pointer text-xl flex justify-between items-center "
                 type="submit"
               >
@@ -70,7 +70,8 @@ const Hero = (props) => {
                 <div className="bg-gray-50 rounded-full flex justify-center items-center aspect-1/1 p-2 ">
                   <FaArrowRightLong className="text-gray-800 " />
                 </div>
-              </button>
+              </button> */}
+              <SearchBtn />
             </form>
           </div>
         </div>
